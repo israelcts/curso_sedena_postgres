@@ -1,556 +1,556 @@
-idPersonal,nombre,apaterno,amaterno,idPais,idPuesto,email,curp,ss,ccostos,estatus,idJefe
-12,Hugo Cesar ,De La Peña,Castillo,1,522,christian.gomez@intertek.com,PECH621126HTSXSG06,49-82-62-5633-8,MX01180,True,685
-16,Osvaldo ,Saucedo ,Duran,1,529,christian.gomez@intertek.com,SADO531113HCLCRS01,32-76-53-1555-4,MX01175,True,12
-37,Enrique ,Aguirre ,Cortez,1,38,christian.gomez@intertek.com,AUCE690902HVZGRN06,67-92-69-5213-5,MX01145,True,44
-42,Inocente ,Cardenas,Cordejo,1,543,christian.gomez@intertek.com,CACI610105HVZRRN02,67-79-61-0487-4,MX01145,True,411
-43,Angel Mario ,Colorado ,Mendez ,1,528,christian.gomez@intertek.com,COMA540119HVZLNN01,67-72-54-0668-9,MX01145,True,44
-44,Emilio ,Cruz ,Vazquez,1,543,christian.gomez@intertek.com,CUVE610727HVZRZM02,67-80-61-3278-2,MX01535,True,411
-61,Patricia ,Ventura,Castillo,1,509,christian.gomez@intertek.com,VECP660711MVZNST09,67-86-66-5328-9,MX01145,True,65
-64,Gumaro ,Castillo,Dominguez,1,520,christian.gomez@intertek.com,CADG621011HVZSMM00,67-90-62-5019-5,MX01146,True,65
-65,Maria Del Carmen ,Chairez,Lopez,1,517,christian.gomez@intertek.com,CALC620512MVZHPR06,67-80-62-4868-7,MX01145,True,2084
-67,Maricruz ,Cruz ,Perez,1,520,christian.gomez@intertek.com,CUPM720529MDFRRR08,67-92-72-5368-1,MX01131,True,685
-68,Natalia Aleida ,De La Cruz ,Flores,1,543,christian.gomez@intertek.com,CUFN641201MPLRLT05,67-97-64-5014-7,MX01146,True,64
-69,Jose Fidel ,Lara,Hernandez,1,502,christian.gomez@intertek.com,LAHF681107HVZRRD04,67-86-68-8861-2,MX01146,True,68
-71,Alejandro,Ramos,Guevara,1,543,christian.gomez@intertek.com,RAGA691123HVZMVL08,67-93-69-5031-9,MX01585,True,65
-75,Javier ,Perez,Dorantes,1,522,christian.gomez@intertek.com,PEDJ770530HVZRRV03,67-96-77-7033-9,MX01155,True,685
-77,Guillermo ,Barron,Peralta,1,528,christian.gomez@intertek.com,BAPG701123HTSRRL03,09-89-70-7558-7,MX01130,True,78
-78,Cesar ,Blas,Castillo,1,522,christian.gomez@intertek.com,BACC641124HTSLSS07,49-88-64-2202-8,MX01130,True,685
-81,Fernando Enrique ,Garcia,Hernandez,1,528,christian.gomez@intertek.com,GAHF650818HTSRRR00,49-87-65-3688-6,MX01130,True,78
-83,Mauro ,Hernandez,Hernandez,1,529,christian.gomez@intertek.com,HEHM790206HPLRRR03,49-96-79-7640-5,MX01130,True,78
-84,Hector Manuel ,Lepe,Rico,1,529,christian.gomez@intertek.com,LERH600225HTSPCC06,49-78-60-0517-0,MX01130,True,78
-85,Jose Armando ,Lepe,Rico,1,528,christian.gomez@intertek.com,LERA580827HTSPCR09,49-75-58-1654-0,MX01530,True,78
-88,Luis Enrique ,Rodriguez,Bermudez,1,528,christian.gomez@intertek.com,ROBL760324HTSDRS01,49-94-76-6322-2,MX01130,True,78
-92,Luis ,Hernandez,Hernandez,1,502,christian.gomez@intertek.com,HEHL660603HVZRRS09,67-88-66-5232-9,MX01131,True,524
-95,Martha Catalina ,Sanchez,Garcia,1,501,christian.gomez@intertek.com,SAGM701023MTSNRR04,67-98-70-1451-0,MX01130,True,685
-104,Jose ,Concepcion,Torres,1,529,christian.gomez@intertek.com,TOCO541209HTSRXN09,49-74-54-0948-9,MX01130,True,78
-111,Raul ,Alonso,Torres,1,528,christian.gomez@intertek.com,AOTR660430HVZLRL03,41-82-64-2333-1,MX01130,True,78
-120,Maria Luisa ,Rojas,Paxtian,1,520,christian.gomez@intertek.com,ROPL700824MVZJXS04,65-89-70-1800-1,MX01151,True,685
-148,Jorge Luis ,Medina,Calderon,1,543,christian.gomez@intertek.com,MECJ740715HSRDLR07,24-98-74-1603-9,MX01505,True,171
-163,Fernando Baltazar ,Vega,Ventura,1,544,christian.gomez@intertek.com,VEVF650531HMCGNR08,01-83-65-2419-7,MX01001,True,2522
-165,Ricardo ,Castillo,Solis,1,513,christian.gomez@intertek.com,CASR670608HDFSLC05,30-89-67-3206-9,MX01035,True,2084
-166,Gerardo ,Perez,Hernandez,1,551,christian.gomez@intertek.com,PEHG510925HDFRRR10,01-73-51-8009-1,MX01555,True,1962
-171,Jose,Ochoa,Quevedo,1,517,christian.gomez@intertek.com,OOQJ610515HDFCVS09,06-78-61-0158-1,MX01500,True,2084
-180,Maria De Lourdes ,Fernandez,Salazar,1,501,christian.gomez@intertek.com,FESL791018MMCRLR04,45-00-79-2135-1,MX01010,True,727
-186,Luis ,Huerta,Aguilar,1,530,christian.gomez@intertek.com,HUAL700511HDFRGS02,94-87-70-1961-5,MX01200,True,883
-188,Veronica ,Luna,Mondragon,1,542,christian.gomez@intertek.com,LUMV750316MDFNNR05,45-91-75-1853-7,MX01010,True,224
-190,Jose Israel ,Martinez,Sanchez,1,546,christian.gomez@intertek.com,MASI791023HMCRNS05,90-97-79-3178-2,MX01200,True,883
-200,Alfredo ,Resendiz,Camilo,1,502,christian.gomez@intertek.com,RECA640206HDFSML01,42-84-64-3222-9,MX01200,True,1632
-202,Manglio Ernesto ,Rodriguez,Carbajal,1,502,christian.gomez@intertek.com,ROCM671006HDFDRN13,11-99-67-0234-3,MX01010,True,727
-204,Guillermo ,Serralde,Narciso,1,509,christian.gomez@intertek.com,SENG710625HDFRRL08,11-00-71-0224-4,MX01202,True,854
-206,Emma Leticia ,Treviño,Nuñez,1,502,christian.gomez@intertek.com,TENE741225MDFRZM06,37-95-74-0364-7,MX01202,True,854
-208,Luis Enrique ,Yañez,Fuentes,1,509,christian.gomez@intertek.com,YAFL791207HDFZNS07,42-00-79-0189-7,MX01203,True,211
-211,Luis ,Zavala,Rosales,1,543,christian.gomez@intertek.com,ZARL810713HDFVSS00,45-97-81-0626-3,MX01203,True,188
-216,Hilario ,Crescencio,Esquivel,1,502,christian.gomez@intertek.com,CEEH750110HDFRSL07,76-02-75-0005-7,MX01203,True,211
-224,Miguel Angel ,Morales,Solano,1,549,christian.gomez@intertek.com,MOSM680904HDFRLG03,30-87-68-4061-9,MX01014,True,2084
-228,Alejandro ,Sanchez,Sanchez,1,528,christian.gomez@intertek.com,SASA530113HDFNNL00,11-91-53-0134-2,MX01500,True,171
-234,Rene ,Arriaga,Gonzalez,1,509,christian.gomez@intertek.com,AIGR591113HPLRNN06,67-75-59-0924-8,MX01012,True,2084
-237,Mario Jorge ,Zapien,Mora,1,524,christian.gomez@intertek.com,ZAMM650815HDFPRR05,88-83-65-0799-1,MX01003,True,2084
-238,Braco Rogelio ,Presbitero,Dorantes,1,540,christian.gomez@intertek.com,PEDB671130HDFRRR00,30-92-67-0233-0,MX01003,True,237
-250,Jesus Enrique ,Macias,Aguilar,1,526,christian.gomez@intertek.com,MAAJ700221HDFCGS02,96-98-70-0090-6,MX01305,True,2247
-251,Liliana ,Ontiveros,Soto,1,501,christian.gomez@intertek.com,OISL730428MDFNTL07,11-93-73-3976-7,MX01305,True,2247
-253,Raul ,Ramirez,Leon,1,503,christian.gomez@intertek.com,RALR620704HMCMNL00,10-81-62-2391-0,MX01305,True,2247
-259,Adrian ,Maximo,Castillo,1,527,christian.gomez@intertek.com,MACA680304HDFXSD03,90-96-68-0159-0,MX01305,True,
-261,Veronica,Amador,Burgoa,1,567,christian.gomez@intertek.com,AABV710312MDFMRR09,39-92-71-6096-8,MX01001,True,2522
-268,Raquel ,Manjarrez,Ayala,1,509,christian.gomez@intertek.com,MAAR680503MDFNYQ01,11-90-68-2298-3,MX01410,True,296
-274,Alma Laura ,Torres,Solano,1,509,christian.gomez@intertek.com,TOSA760115MDFRLL05,11-93-75-1760-2,MX01031,True,563
-293,Lucia ,Ramirez,Padron,1,542,christian.gomez@intertek.com,RAPL801213MDFMDC07,68-95-80-2687-1,MX01400,True,2541
-296,Flavia Ivette ,Perez,Mendoza,1,533,christian.gomez@intertek.com,PEMF810210MDFRNL08,68-95-81-0128-6,MX01410,True,749
-310,Jorge ,Garcia,Rodriguez,1,546,christian.gomez@intertek.com,GARJ640120HMNRDR08,53-90-64-1687-9,MX01200,True,883
-312,Violeta ,Sosa,Hernandez,1,542,christian.gomez@intertek.com,SOHV780914MOCSRL01,68-93-78-4589-6,MX01010,True,224
-313,Hector ,Perez,Aquino,1,526,christian.gomez@intertek.com,PEAH560702HDFRQC05,42-97-56-0044-8,MX01305,True,2247
-328,Oscar Roger ,Castro,Santos,1,544,christian.gomez@intertek.com,CASO660131HYNSNS00,20-87-66-0011-3,MX01002,True,1847
-348,Miguel Angel ,Fernandez,Morales,1,507,christian.gomez@intertek.com,FEMM671005HDFRRG01,01-85-68-0229-1,MX01001,True,2629
-353,Edgar Ariosto ,Aguilar,Lopez,1,501,christian.gomez@intertek.com,AULE800329HCSGPD04,71-97-80-1181-6,MX01019,True,2591
-372,Martin Antonio ,Cano,Garza,1,529,christian.gomez@intertek.com,CAGM660205HNLNRR05,30-87-66-2400-5,MX01135,True,2331
-385,Karla Itzel ,Ramirez ,Herrejon,1,503,christian.gomez@intertek.com,RAHK840224MTSMRR06,09-03-84-4369-4,MX01130,True,78
-390,Orbelin ,Lopez ,Tejeda,1,536,christian.gomez@intertek.com,LOTO610516HVZPJR00,67-77-61-0465-4,MX01145,True,61
-399,Anabel ,Huerta,Bartolo,1,509,christian.gomez@intertek.com,HUBA830117MDFRRN08,11-04-83-0167-2,MX01031,True,563
-411,Mario De Jesus,Pereyra,Ruiz,1,509,christian.gomez@intertek.com,PERM830925HVZRZR07,11-02-83-0257-5,MX01145,True,2418
-418,Monica Berenice ,Arellano,Luna,1,544,christian.gomez@intertek.com,AELM751003MDFRNN06,39-94-75-4997-6,MX01555,True,1962
-436,Luz Adriana ,Torres,Lopez,1,502,christian.gomez@intertek.com,TOLL830521MVZRPZ01,67-01-83-1398-0,MX01146,True,68
-507,David ,Cisneros,Lopez,1,509,christian.gomez@intertek.com,CILD710304HDFSPV05,92-92-71-5954-8,MX01010,True,2747
-523,Julio Cesar ,Arevalo,Rodriguez,1,546,christian.gomez@intertek.com,AERJ810117HDFRDL08,68-95-81-0886-9,MX01200,True,883
-524,Evodio ,Flores,Olguin,1,543,christian.gomez@intertek.com,FOOE741011HTSLLV09,49-97-74-0981-9,MX01131,True,67
-534,Gabriela ,Ordoñez,Gutierrez,1,502,christian.gomez@intertek.com,OOGG700606MDFRTB01,70-88-70-0551-3,MX01400,True,622
-563,Javier ,Martell,Hernandez,1,543,christian.gomez@intertek.com,MAHJ820831HDFRRV07,68-97-82-3801-9,MX01031,True,2541
-564,Heriberto ,Espinosa,Cortes,1,501,christian.gomez@intertek.com,EICH661005HOCSRR10,10-86-66-0325-0,MX01001,True,2522
-572,Araceli ,De La Cruz ,Ortiz,1,502,christian.gomez@intertek.com,CUOA780428MDFRRR06,94-95-78-1154-3,MX01033,True,2057
-573,Efigenia ,Cruz ,Chavarria,1,512,christian.gomez@intertek.com,CUCE781014MDFRHF05,07-02-78-0191-4,MX01415,True,2541
-577,Lilia Susana ,Aquino ,Ignacio,1,502,christian.gomez@intertek.com,AUIL740919MDFQGL01,68-95-74-0669-4,MX01400,True,608
-588,Juan ,Gonzalez ,Tamayo,1,509,christian.gomez@intertek.com,GOTJ830824HDFNMN08,45-05-83-0326-9,MX01415,True,2745
-590,Jacquelin ,Jimenez ,Lopez,1,509,christian.gomez@intertek.com,JILJ810328MDFMPC04,28-00-81-1156-0,MX01037,True,2829
-597,Julio Cesar ,Ortega,Meza,1,542,christian.gomez@intertek.com,OEMJ830813HDFRZL05,07-02-83-0969-3,MX01425,True,2541
-603,Monica ,Garcia,Frias,1,502,christian.gomez@intertek.com,GAFM790916MMCRRN01,07-02-79-0610-1,MX01400,True,1078
-608,Diana ,Valencia,Paz,1,502,christian.gomez@intertek.com,VAPD710203MDFLZN08,94-92-71-0200-7,MX01400,True,293
-611,Elizabeth ,Hernandez,De Santiago,1,543,christian.gomez@intertek.com,HESE760119MDFRNL02,68-92-76-6236-8,MX01400,True,293
-622,Beatriz ,Lozano,Mendez,1,502,christian.gomez@intertek.com,LOMB790822MDFZNT00,11-98-79-4479-7,MX01400,True,
-623,Joel ,Orduña,Santiago,1,502,christian.gomez@intertek.com,OUSJ820123HDFRNL06,11-05-82-0360-2,MX01400,True,611
-627,Erasto ,Valderrabano,Hernandez,1,502,christian.gomez@intertek.com,VAHE620819HPLLRR08,17-85-62-0479-1,MX01400,True,611
-673,Clara ,Cuevas,Huesca,1,504,christian.gomez@intertek.com,CUHC720913MDFVSL09,39-91-72-7893-7,MX01550,True,1759
-684,Salvador ,Hernandez,Tristan,1,529,christian.gomez@intertek.com,HETS781203HTSRRL03,49-95-79-4426-4,MX01130,True,78
-685,Carlos ,Garcia,Alvarez,1,517,christian.gomez@intertek.com,GAAC820607HTSRLR07,41-00-82-3552-9,MX01150,True,2084
-688,Norma Thalia,Diaz,Madrigal,1,542,christian.gomez@intertek.com,DIMN830608MDFZDR01,90-05-83-0265-5,MX01305,True,1772
-727,Olga ,Alcantara,Ceron,1,533,christian.gomez@intertek.com,AACO820515MDFLRL08,92-99-82-3800-7,MX01010,True,312
-749,Bernice ,Guerra,Mena,1,522,christian.gomez@intertek.com,GUMB740114MNERNR12,11-98-74-1874-3,MX01410,True,1962
-758,Haydee ,Pelaez,Topete,1,515,christian.gomez@intertek.com,PETH801126MDFLPY09,96-99-80-2078-6,MX01017,True,224
-785,Armando ,Flores,Rendon,1,40,christian.gomez@intertek.com,FORA700827HDFLNR00,20-88-70-1209-2,MX01200,True,883
-789,Juan ,Perales,Moreno,1,529,christian.gomez@intertek.com,PEMJ620519HNLRRN07,67-88-61-5085-2,MX01135,True,2331
-811,Felipe Neri ,Martinez,Gonzalez,1,526,christian.gomez@intertek.com,MAGF710915HMCRNL01,45-93-71-3587-4,MX01003,True,237
-815,Adriana De Jesus,Medina,Carrera,1,501,christian.gomez@intertek.com,MECA780105MCHDRD08,35-94-78-4009-2,MX01155,True,75
-818,Ma De Los Remedios ,Narvaez,Hernandez,1,502,christian.gomez@intertek.com,NAHR700901MDFRRR03,20-91-70-0009-1,MX01033,True,2057
-825,Oscar ,Pueblita,Ortega,1,509,christian.gomez@intertek.com,PUOO710129HDFBRS06,68-93-71-0212-4,MX01400,True,293
-854,Sergio ,Morales,Arias,1,543,christian.gomez@intertek.com,MOAS780908HGRRRR09,72-96-78-0745-3,MX01202,True,188
-863,Alfonso,Emeterio,Lopez,1,543,christian.gomez@intertek.com,EELA760313HVZMPL05,25-97-76-0541-6,MX01505,True,171
-865,Laura Zenith ,Neri,Ortiz,1,502,christian.gomez@intertek.com,NEOL810815MDFRRR02,68-97-81-1253-7,MX01400,True,623
-874,Jaime ,Martinez,Rosas,1,543,christian.gomez@intertek.com,MARJ770224HDFRSM05,45-06-77-0105-7,MX01201,True,188
-877,Arturo ,Moreno,Rojas,1,529,christian.gomez@intertek.com,MORA631114HDFRJR02,06-80-63-0249-0,MX01100,True,171
-883,Ezequiel ,Garcia,Rosas,1,533,christian.gomez@intertek.com,GARE720322HDFRSZ08,20-88-72-1018-3,MX01200,True,224
-886,Julio Cesar ,Felix,Gonzalez,1,529,christian.gomez@intertek.com,FEGJ691227HSRLNL06,24-87-69-2538-9,MX01105,True,171
-949,Gil ,Carreon,Rodriguez,1,546,christian.gomez@intertek.com,CARG770114HDFRDL08,68-93-77-0048-9,MX01200,True,883
-993,Hermes ,Mondragon,Escalona,1,526,christian.gomez@intertek.com,MOEH790126HDFNSR08,45-00-79-0324-3,MX01305,True,2247
-994,David,Yañez,Mendoza,1,527,christian.gomez@intertek.com,YAMD711009HMCZNV09,68-90-71-1750-8,MX01305,True,2247
-1006,Rogelio ,Pineda ,Sanchez,1,543,christian.gomez@intertek.com,PISR770227HDFNNG06,20-93-77-0686-7,MX01150,True,685
-1010,Miguel Antonio ,Cisneros,Hernandez,1,529,christian.gomez@intertek.com,CIHM760613HVZSRG06,67-99-76-1361-6,MX01145,True,42
-1020,Daniel ,Burgos,Mena,1,528,christian.gomez@intertek.com,BUMD861112HCSRNN02,67-06-86-2941-8,MX01145,True,44
-1034,Silverio Miguel ,Herrera ,Bonilla,1,509,christian.gomez@intertek.com,HEBS580620HDFRNL03,42-90-58-0004-3,MX01200,True,1632
-1048,Gustavo Sotero ,Hernandez ,Carbajal ,1,529,christian.gomez@intertek.com,HECG730128HVZRRS09,67-93-73-5531-0,MX01145,True,42
-1073,Maribel ,Leonel,Guzman,1,504,christian.gomez@intertek.com,LEGM810807MDFNZR02,94-99-81-1314-9,MX01410,True,2036
-1078,Jose De Jesus ,Flores,Ballesteros,1,502,christian.gomez@intertek.com,FOBJ811125HDFLLS16,92-02-81-2643-8,MX01400,True,611
-1104,Maria Elena ,Bautista ,Paz,1,502,christian.gomez@intertek.com,BAPE850505MDFTZL05,94-03-85-3593-9,MX01400,True,611
-1107,Pablo Antonio ,Garcia,Juarez,1,512,christian.gomez@intertek.com,GAJP640115HDFRRB04,89-83-64-0450-2,MX01555,True,1962
-1148,Eva Berenice ,Ortiz,Rodriguez,1,507,christian.gomez@intertek.com,OIRE820709MDFRDV05,11-04-84-0094-6,MX01560,True,2232
-1187,Cristobal Omar ,Rojas,Gonzalez,1,564,christian.gomez@intertek.com,ROGC820614HDFJNR07,11-07-82-0683-3,MX01005,True,2084
-1203,Alberto ,Ortega ,Hernandez,1,544,christian.gomez@intertek.com,OEHA740930HHGRRL05,92-01-74-0741-9,MX01231,True,2620
-1214,Daniela Libertad ,Jimenez ,Vazquez,1,509,christian.gomez@intertek.com,JIVD800915MMCMZN04,37-98-80-3397-5,MX01204,True,188
-1216,Claudia,Lezama,Bautista,1,544,christian.gomez@intertek.com,LEBC821117MDFZTL04,07-06-82-0144-6,MX01002,True,1847
-1218,Jesus Alejandro ,Salinas ,Cruz,1,529,christian.gomez@intertek.com,SACJ880405HTSLRS02,09-04-88-3396-7,MX01130,True,78
-1219,Gustavo Ernesto,Reyes,Torres,1,529,christian.gomez@intertek.com,RETG840116HTSYRS05,09-01-84-5621-1,MX01130,True,78
-1231,Francisco Damian ,Ponce,Villegas,1,543,christian.gomez@intertek.com,POVF731210HVZNLR00,49-96-73-1729-5,MX01170,True,12
-1250,Maria Irene ,Rios,Rios,1,501,christian.gomez@intertek.com,RIRI650418MGTSSR04,07-89-65-0179-3,MX01315,True,2841
-1258,Carlos Martin ,Flores,De Jesus ,1,509,christian.gomez@intertek.com,FOJC771203HVZLSR00,67-96-77-7160-0,MX01145,True,65
-1282,Daniel Benjamin ,Perez,Roman,1,553,christian.gomez@intertek.com,PERD791030HDFRMN00,28-05-79-0114-3,MX01015,True,758
-1320,Gustavo De Jesus ,Beltran,Guillen,1,505,christian.gomez@intertek.com,BEGG851101HVZLLS07,67-04-85-1672-7,MX01180,True,12
-1322,Gabriel,Sandoval,Merida,1,501,christian.gomez@intertek.com,SAMG700227HDFNRB06,11-89-70-2369-0,MX01019,True,1779
-1333,Juan Carlos ,Cervantes,Chavez,1,525,christian.gomez@intertek.com,CECJ851216HDFRHN00,39-94-75-8461-9,MX01400,True,2541
-1335,Oscar ,Cortes,Cruz,1,501,christian.gomez@intertek.com,COCO760719HDFRRS02,45-96-76-0890-7,MX01001,True,2591
-1344,Camerino ,Melchor ,Cortes ,1,526,christian.gomez@intertek.com,MECC740829HMNLRM04,94-90-74-0459-7,MX01305,True,2247
-1369,Jose Fidencio ,Castillo,Arias,1,529,christian.gomez@intertek.com,CAAF881230HSPSRD08,65-07-88-3936-5,MX01540,True,1006
-1375,Gerardo ,Rubio,Alvarez,1,501,christian.gomez@intertek.com,RUAG720125HMNBLR08,01-95-72-0634-3,MX01300,True,2211
-1395,David,Cano,Trejo,1,526,christian.gomez@intertek.com,CATD820501HMCNRV02,96-08-82-0690-7,MX01305,True,2247
-1414,Jorge Antonio ,Franco,Fraire,1,543,christian.gomez@intertek.com,FAFJ700630HCLRRR09,32-91-70-6151-0,MX01185,True,12
-1453,Jose Ramon ,Santiago ,Corona,1,529,christian.gomez@intertek.com,SACR820319HTSNRM01,09-98-82-4738-4,MX01180,True,12
-1455,Rosalia Fabiola ,Tiro,Bravo,1,501,christian.gomez@intertek.com,TIBR831123MMCRRS06,94-08-83-1083-7,MX01500,True,171
-1460,Raul ,Uñate,Franco,1,528,christian.gomez@intertek.com,UAFR791217HCLTRL09,32-08-79-0347-5,MX01185,True,1414
-1463,Rocio,Vargas,Garcia,1,509,christian.gomez@intertek.com,VAGR830920MVZRRC04,09-02-83-0050-8,MX01130,True,165
-1482,Julio Enrique ,Martinez,Medina,1,529,christian.gomez@intertek.com,MAMJ770723HTSRDL09,09-08-77-0567-0,MX01170,True,1231
-1495,Elizabeth Georgina ,Ayala ,Ramirez,1,505,christian.gomez@intertek.com,AARE730130MDFYML01,07-89-73-0457-7,MX01010,True,727
-1501,Ignacio ,Salinas ,Enriquez,1,529,christian.gomez@intertek.com,SAEI880412HOCLNG08,42-04-88-0097-5,MX01170,True,1231
-1513,Abraham ,Olvera ,Perez,1,543,christian.gomez@intertek.com,OEPA670316HHGLRB03,67-85-67-5170-5,MX01120,True,171
-1514,Marcos,Garcia,Cruz,1,528,christian.gomez@intertek.com,GACM810831HDFRRR05,90-06-81-0661-7,MX01405,True,1830
-1516,Guillermo De Jesus ,Espejo ,Moreno ,1,528,christian.gomez@intertek.com,EEMG630920HVZSRL00,64-84-63-1664-0,MX01145,True,44
-1537,Luis Alberto ,Aguirre,Rios,1,529,christian.gomez@intertek.com,AURL900709HNLGSS00,43-08-90-7301-9,MX01135,True,2331
-1549,Christopher Xavier ,Cirilo,Vasquez,1,503,christian.gomez@intertek.com,CIVC890225HVZRSH07,67-09-89-0875-8,MX01145,True,2418
-1553,Elizabeth Leticia,Guzman,Martinez,1,502,christian.gomez@intertek.com,GUME810613MDFZRL03,37-01-81-1189-0,MX01203,True,211
-1556,Mario ,Laines,Garcia,1,528,christian.gomez@intertek.com,LAGM561222HTCNRR07,67-79-59-0637-8,MX01145,True,44
-1566,Leonardo ,Duarte,Flores,1,528,christian.gomez@intertek.com,DUFL741106HSRRLN07,24-91-74-3913-5,MX01505,True,171
-1594,Mauro ,Moreno,Novoa,1,502,christian.gomez@intertek.com,MONM881219HSRRVR01,24-07-88-0096-8,MX01505,True,148
-1600,Maria Jose,Martinez,Segovia,1,566,christian.gomez@intertek.com,MASJ720419MPLRGS01,62-92-72-7342-5,MX01031,True,2541
-1615,Uriel,Barrientos,Maldonado,1,502,christian.gomez@intertek.com,BAMU810805HMCRLR07,40-97-81-4440-6,MX01201,True,874
-1616,Erick Francisco ,Jasso,Guerra,1,529,christian.gomez@intertek.com,JAGE821210HTSSRR09,09-02-82-1701-7,MX01195,True,1620
-1620,Julio Manuel,Guerrero,Gonzalez,1,543,christian.gomez@intertek.com,GUGJ720928HTSRNL04,09-89-72-0794-1,MX01195,True,12
-1628,Jose Francisco ,Barajas,Garcia,1,502,christian.gomez@intertek.com,BAGF860220HDFRRR06,20-09-86-0775-5,MX01202,True,854
-1632,Jesus Alejandro ,Rios,Liñan,1,543,christian.gomez@intertek.com,RILJ740921HDFSNS06,39-92-74-9380-7,MX01200,True,224
-1646,Claudia Guadalupe ,Bonilla,Garduño,1,504,christian.gomez@intertek.com,BOGC700721MPLNRL11,62-88-70-5217-3,MX01410,True,2036
-1660,Gilberto ,Leon,Cruz,1,502,christian.gomez@intertek.com,LECG840207HDFNRL06,45-01-84-0722-6,MX01400,True,293
-1669,Francisco Gerardo ,Jimenez ,Gonzalez,1,526,christian.gomez@intertek.com,JIGF780210HCHMNR09,43-01-78-0548-2,MX01003,True,237
-1679,Eder ,Salmeron,Gonzalez,1,527,christian.gomez@intertek.com,SAGE830103HDFLND00,96-08-83-0654-1,MX01300,True,2211
-1683,Karla Ivonne ,Rivera,Hernandez,1,530,christian.gomez@intertek.com,RIHK790714MMCVRR02,42-02-79-0844-3,MX01202,True,854
-1686,Marisol ,Perez,Garcia,1,509,christian.gomez@intertek.com,PEGM820519MDFRRR19,07-03-82-0560-0,MX01300,True,2211
-1720,Cecilia,Simon ,Cruz,1,501,christian.gomez@intertek.com,SICC701122MHGMRC02,28-88-70-2181-5,MX01305,True,2164
-1742,Mario ,Lopez,Quintanar,1,526,christian.gomez@intertek.com,LOQM680119HDFPNR02,17-86-68-0109-9,MX01003,True,237
-1743,Rosa Isela ,Marquez,Monroy,1,519,christian.gomez@intertek.com,MAMR820519MDFRNS02,96-03-82-2058-6,MX01220,True,0
-1754,Genoveva ,Godinez,Marquez,1,501,christian.gomez@intertek.com,GOMG750103MDFDRN01,28-92-75-0127-1,MX01010,True,2747
-1759,Juan Francisco ,Valdes,Velazquez,1,522,christian.gomez@intertek.com,VAVJ750317HDFLLN03,30-04-75-0401-1,MX01550,True,1962
-1765,Luis Alberto ,Martinez,Calderon,1,504,christian.gomez@intertek.com,MACL881122HDFRLS02,28-08-88-0701-2,MX01410,True,2036
-1769,Carlos Eduardo ,Miranda ,Guzman ,1,526,christian.gomez@intertek.com,MIGC840208HDFRZR09,92-03-84-3176-0,MX01305,True,
-1772,Roberto ,Fernandez,Enriquez,1,519,christian.gomez@intertek.com,FEER820703HDFRNB04,20-02-82-1107-4,MX01305,True,2084
-1778,Jose Luis ,Ramirez,Martinez,1,502,christian.gomez@intertek.com,RAML710415HDFMRS03,45-00-71-0544-3,MX01400,True,825
-1790,Luis Antonio ,Covarrubias,Gonzalez,1,502,christian.gomez@intertek.com,COGL711122HDFVNS00,39-94-71-0739-5,MX01202,True,854
-1793,Rodolfo ,Gallardo,Castañon,1,516,christian.gomez@intertek.com,GACR670212HZSLSD03,11-89-67-0458-9,MX01560,True,2232
-1806,Victor Manuel ,Rodriguez,Leon,1,529,christian.gomez@intertek.com,ROLV860803HVZDNC01,43-05-86-1443-9,MX01135,True,2331
-1808,Irma,Bravo,Cano,1,502,christian.gomez@intertek.com,BACI651218MDFRNR02,30-92-65-1176-4,MX01202,True,854
-1810,Noe ,Garcia,Martinez,1,546,christian.gomez@intertek.com,GAMN840315HDFRRX10,07-03-84-0690-1,MX01200,True,883
-1812,Alma Rosa ,Calva,Flores,1,501,christian.gomez@intertek.com,CAFA820523MDFLLL05,92-99-82-0987-5,MX01400,True,608
-1818,Jonathan Ivan ,Marquez,Carrillo,1,501,christian.gomez@intertek.com,MACJ830204HDFRRN00,11-01-83-2760-8,MX01019,True,2993
-1824,Luis Andres ,Vazquez,Rodriguez,1,509,christian.gomez@intertek.com,VARL820104HDFZDS00,20-07-82-0005-0,MX01300,True,2211
-1827,Ivan ,Zaragoza,Moran,1,504,christian.gomez@intertek.com,ZAMI750822HDFRRV06,01-98-75-0224-0,MX01410,True,2036
-1828,Israel Antonio ,Chavez,Perez,1,528,christian.gomez@intertek.com,CAPI830909HDFHRS06,07-97-83-0081-7,MX01405,True,1830
-1830,Jose Eduardo ,Ortega,Meza,1,509,christian.gomez@intertek.com,OEME871018HDFRZD03,90-05-87-4044-1,MX01405,True,1600
-1834,Jorge Ramon ,Solis,Reynoso,1,542,christian.gomez@intertek.com,SORJ821027HDFLYR01,11-05-82-1312-2,MX01310,True,1772
-1845,Alejandra ,Rodriguez,Castro,1,502,christian.gomez@intertek.com,ROCA801123MDFDSL06,90-07-80-0496-8,MX01400,True,293
-1846,Ricardo Mauricio ,Muciño ,Rodriguez ,1,529,christian.gomez@intertek.com,MURR830406HDFCDC05,30-99-83-0554-1,MX01150,True,1006
-1847,Beatriz,Perez,Vela ,1,548,christian.gomez@intertek.com,PEVB760718MDFRLT01,11-93-76-0688-4,MX01420,True,2084
-1849,Leonel ,Torres,Martinez,1,529,christian.gomez@intertek.com,TOML901103HTSRRN01,09-09-90-6069-2,MX01195,True,1620
-1855,Alfredo ,Cedillo,Rodriguez,1,502,christian.gomez@intertek.com,CERA650909HDFDDL02,11-89-65-1804-7,MX01400,True,2541
-1885,Saul,Ponce,Soriano,1,528,christian.gomez@intertek.com,POSS810623HBCNRL05,21-01-81-4117-2,MX01505,True,
-1920,Fernando ,Rodriguez,Gonzalez,1,504,christian.gomez@intertek.com,ROGF841105HDFDNR00,20-06-84-0841-6,MX01410,True,2036
-1932,Miguel Angel ,Martinez,Suarez,1,509,christian.gomez@intertek.com,MASM700520HDFRRG00,39-91-70-4677-1,MX01204,True,188
-1951,Roberto ,Gaspariaño,Larino,1,502,christian.gomez@intertek.com,GALR750917HTLSRB09,39-97-75-0725-8,MX01202,True,854
-1962,Jose ,Suarez,Cañal,1,519,christian.gomez@intertek.com,SUCJ710512HDFRLS00,07-98-71-0111-5,MX01555,True,2084
-1965,Oscar ,Perez,Varela,1,501,christian.gomez@intertek.com,PEVO891107HDFRRS06,20-10-89-1362-3,MX01001,True,2591
-1970,Guilibaldo ,Garcia,Perez,1,502,christian.gomez@intertek.com,GAPG660707HTLRRL07,30-86-66-0124-5,MX01010,True,727
-1974,Ana Lilia ,Jimenez ,Fonseca,1,504,christian.gomez@intertek.com,JIFA730124MDFMNN00,11-91-73-3547-0,MX01410,True,2036
-1975,Irma Leticia ,Villareal,Almanza,1,528,christian.gomez@intertek.com,VIAI490913MGTLLR08,33-71-49-0754-1,MX01325,True,1834
-1976,Maria Nayeli ,Mateo,Vera,1,502,christian.gomez@intertek.com,MAVN791113MMCTRY03,92-97-79-4427-8,MX01204,True,188
-1980,Alberto,Mendiola,Mendez,1,502,christian.gomez@intertek.com,MEMA741203HMCNNL01,39-95-74-0783-4,MX01202,True,874
-1988,Ulises ,Hernandez,Rodriguez,1,528,christian.gomez@intertek.com,HERU841014HMCRDL04,94-08-84-0267-5,MX01405,True,1830
-1990,Jose Cristhian,Soto,Mote,1,546,christian.gomez@intertek.com,SOMC811206HDFTTR07,45-01-81-3135-4,MX01200,True,883
-1991,Luis Ernesto,Barron,Chavez,1,546,christian.gomez@intertek.com,BACL841016HDFRHS03,01-00-84-0401-2,MX01200,True,883
-1998,Miguel Angel ,Perez,Jonguitud,1,502,christian.gomez@intertek.com,PEJM840629HMCRNG07,92-04-84-1913-6,MX01203,True,874
-2006,Corina De Alicia,Gonzalez ,Castañeda,1,504,christian.gomez@intertek.com,GOCC870521MNTNSR06,43-11-87-2192-7,MX01410,True,2036
-2011,Alejandra,Garcia,Zaragoza,1,504,christian.gomez@intertek.com,GAZA770210MMCRRL08,90-06-77-0352-1,MX01410,True,2036
-2018,Sergio Arturo ,Sanchez,Atriano,1,505,christian.gomez@intertek.com,SAAS850427HDGNTR15,09-08-85-1693-6,MX01170,True,1231
-2023,Jose Luis ,Navarro,Maldonado,1,502,christian.gomez@intertek.com,NAML861015HDFVLS04,94-04-86-3795-6,MX01202,True,854
-2024,Edgar Eduardo,Acosta,Fuentes,1,502,christian.gomez@intertek.com,AOFE840414HDFCND03,01-08-84-0684-6,MX01400,True,1078
-2027,Leonardo ,Cuellar,Chala,1,517,christian.gomez@intertek.com,CUCL750115HNELHN08,83-10-75-0054-4,MX01565,True,2084
-2028,Silvia,Olmos ,Luna,1,502,christian.gomez@intertek.com,OOLS670602MDFLNL08,96-90-67-0024-8,MX01202,True,1683
-2036,Carolina ,Suazo,Guadarrama,1,533,christian.gomez@intertek.com,SUGC870812MDFZDR03,45-06-87-4602-8,MX01410,True,749
-2041,Veronica ,Martinez,Ramirez,1,502,christian.gomez@intertek.com,MARV710217MDFRMR01,94-91-71-1897-1,MX01205,True,188
-2045,Carlos ,Rodriguez,Esparza,1,529,christian.gomez@intertek.com,ROEC830202HTSDSR01,09-99-83-4770-3,MX01170,True,1231
-2056,Guadalupe Ines ,Briseño,Martinez,1,502,christian.gomez@intertek.com,BIMG880412MMCRRD03,94-11-88-2992-1,MX01033,True,2057
-2057,Sofia,Ocaña,Villegas,1,509,christian.gomez@intertek.com,OAVS860825MTCCLF03,92-08-86-1852-2,MX01033,True,1600
-2069,Yessica Deyanira ,Galvan,Bastard,1,537,christian.gomez@intertek.com,GABY750730MDFLSS06,39-91-75-2805-9,MX01019,True,1847
-2075,Martha Yadira ,Ludlow,Trejo,1,521,christian.gomez@intertek.com,LUTM840510MHGDRR04,11-03-84-0618-4,MX01004,True,2084
-2079,Praxedis ,Guillen,Rodriguez,1,528,christian.gomez@intertek.com,GURP740721HTSLDR00,49-91-74-4139-3,MX01145,True,44
-2084,Mario Alberto ,Rodriguez,Aguirre,1,511,christian.gomez@intertek.com,ROAM701219HDFDGR08,42-91-70-0099-6,MX01005,True,0
-2097,Jose Carlos ,Sanchez,Rojas,1,504,christian.gomez@intertek.com,SARC840103HPLNJR09,48-07-84-2305-9,MX01410,True,
-2118,Jesus Antonio ,Elorza,Valdez,1,555,christian.gomez@intertek.com,EOVJ630821HVZLLS04,83-93-63-0200-5,MX01565,True,2027
-2122,Rosalba ,Caballero,Cruz,1,531,christian.gomez@intertek.com,CACR730706MDFBRS03,20-95-73-2011-0,MX01202,True,1683
-2131,Christopher ,Ramirez,Carreto,1,565,christian.gomez@intertek.com,RACC851120HDFMRH04,37-09-85-0726-4,MX01003,True,237
-2141,Luis Angel ,Arroyo,Cuevas,1,502,christian.gomez@intertek.com,AOCL850706HZSRVS03,12-12-85-0651-1,MX01425,True,597
-2160,Angela Carolina ,Matheus,Teran,1,509,christian.gomez@intertek.com,MATA750721MNETRN03,92-10-75-0169-1,MX01560,True,1793
-2164,Miguel Angel ,Salinas ,Calzada,1,544,christian.gomez@intertek.com,SACM760629HDFLLG09,11-99-76-0554-5,MX01305,True,1772
-2165,Christian Patricio ,Guzman,Marquez,1,502,christian.gomez@intertek.com,GUMC840123HDFZRH01,30-03-84-2066-4,MX01415,True,2615
-2170,Luis Alberto,Gonzalez ,Mendoza,1,529,christian.gomez@intertek.com,GOML590622HNLNNS02,43-81-59-2381-8,MX01325,True,1834
-2173,Esteban Mario ,Estrada,Fabre,1,509,christian.gomez@intertek.com,EAFE880531HMCSBS00,90-06-88-1578-7,MX01031,True,563
-2180,Jose Antonio ,Cantillo,Zacarias,1,528,christian.gomez@intertek.com,CAZA890302HMCNCN04,01-11-89-0322-6,MX01405,True,1830
-2182,Marivi,Mabridis,Gutierrez,1,501,christian.gomez@intertek.com,MAGM910724MDFBTR00,94-12-91-3285-1,MX01555,True,296
-2187,Carlos Eduardo ,Trujillo ,Subias,1,504,christian.gomez@intertek.com,TUSC861116HDFRBR07,42-12-86-0339-8,MX01410,True,2036
-2197,Guadalupe ,Lopez,Contreras,1,503,christian.gomez@intertek.com,LOCG900920MDFPND02,01-09-90-2879-5,MX01560,True,1148
-2209,Victor Hugo ,Munguia,Garcia,1,503,christian.gomez@intertek.com,MUGV620723HDFNRC07,01-85-62-0250-0,MX01010,True,188
-2211,Miguel Angel ,Hurtado,Jimenez,1,542,christian.gomez@intertek.com,HUJM810626HDFRMG05,11-07-81-0240-4,MX01300,True,1772
-2215,Veronica ,Ceron,Nieto,1,531,christian.gomez@intertek.com,CENV890218MMCRTR09,94-12-89-2545-3,MX01204,True,188
-2219,Erick ,Hernandez,Cuautle,1,509,christian.gomez@intertek.com,HECE880203HDFRTR08,94-12-88-0904-6,MX01204,True,188
-2220,Gilberto ,Dominguez,Perez,1,502,christian.gomez@intertek.com,DOPG881102HVZMRL07,67-12-88-1332-5,MX01146,True,68
-2223,Guillermo Gabriel,Rangel,Flores,1,504,christian.gomez@intertek.com,RAFG720917HDFNLL01,37-96-72-0080-1,MX01001,True,2422
-2225,Arturo ,Navarro,Mosco,1,544,christian.gomez@intertek.com,NAMA761116HDFVSR04,42-91-74-1961-8,MX01002,True,1847
-2226,Alberto ,Estrada,Cruz,1,502,christian.gomez@intertek.com,EACA820827HDFSRL00,68-97-82-8170-4,MX01202,True,1683
-2229,Rosa Irma ,Alejandro,Lopez,1,531,christian.gomez@intertek.com,AELR660830MTCLPS02,83-82-66-1381-8,MX01234,True,188
-2232,Alejandro ,Delgado,Soto,1,510,christian.gomez@intertek.com,DESA621020HDFLTL07,01-85-62-0683-2,MX01560,True,2084
-2237,Jose Antonio ,Frias,Rojas,1,502,christian.gomez@intertek.com,FIRA900528HMCRJN06,92-12-90-0154-8,MX01204,True,188
-2240,Virginia ,Licona,Andrade,1,501,christian.gomez@intertek.com,LIAV811228MTCCNR01,83-96-81-3205-6,MX01565,True,2027
-2246,Joanna Elizabeth ,Roa,Zamora,1,509,christian.gomez@intertek.com,ROZJ871209MGTXMN07,12-13-87-0358-7,MX01425,True,
-2247,Ali Sinuhe ,Martinez,Jimenez,1,542,christian.gomez@intertek.com,MAJA910224HDFRML05,96-13-91-0533-0,MX01305,True,1772
-2248,Karen ,Robles,Estrada,1,512,christian.gomez@intertek.com,ROEK900910MMCBSR05,90-13-90-0329-8,MX01017,True,758
-2249,David Antonio ,Falcon,Perez,1,546,christian.gomez@intertek.com,FAPD880609HTCLRV05,83-13-88-0054-1,MX01230,True,883
-2251,Alejandro De Jesus ,Lopez,Lopez,1,543,christian.gomez@intertek.com,LOLA890303HCSPPL01,65-13-89-0702-0,MX01151,True,120
-2254,Senen ,Barradas,Jauregui,1,529,christian.gomez@intertek.com,BAJS891112HVZRRN06,67-08-89-5511-6,MX01145,True,42
-2258,Berenice ,Avendaño,Morales,1,509,christian.gomez@intertek.com,AEMB850711MDFVRR09,01-12-85-0400-6,MX01010,True,224
-2259,Manuel Augusto ,Toledo ,Arias,1,503,christian.gomez@intertek.com,TOAM900204HVZLRN09,67-13-90-0803-0,MX01145,True,411
-2263,Ernesto ,Ortuño,Martinez,1,509,christian.gomez@intertek.com,OUME900102HMNRRR02,53-03-90-0007-9,MX01110,True,65
-2264,Jose Luis,Gomez,Villegas,1,504,christian.gomez@intertek.com,GOVL900708HDFMLS07,11-13-90-0196-7,MX01410,True,
-2265,Irving Alain ,Canul ,Toledo ,1,502,christian.gomez@intertek.com,CATI900705HVZNLR07,67-09-90-2272-4,MX01585,True,68
-2266,Anahi ,Borja,Yañez,1,502,christian.gomez@intertek.com,BOYA891123MDFRZN06,94-13-89-0566-9,MX01400,True,1845
-2278,Raul,Reyes,De La Rosa,1,529,christian.gomez@intertek.com,RERR760425HTSYSL01,09-95-76-0825-1,MX01170,True,1231
-2279,Julissa ,Jimenez ,Mejia,1,503,christian.gomez@intertek.com,JIMJ880514MDFMJL02,42-13-88-0181-8,MX01010,True,727
-2283,Kasandra,Mendoza,Rascon,1,505,christian.gomez@intertek.com,MERK931203MSRNSS07,24-13-93-0158-4,MX01505,True,148
-2289,Leonel,Gomez,Osuna,1,502,christian.gomez@intertek.com,GOOL760715HSRMSN02,24-93-76-1364-4,MX01505,True,148
-2292,Ricardo Ivan,Ayala ,Rios,1,546,christian.gomez@intertek.com,AARR850621HMCYSC01,39-04-85-1778-1,MX01200,True,883
-2304,Rene ,Martinez,Bernal,1,532,christian.gomez@intertek.com,MABR591226HDFRRN05,75-84-59-0519-1,MX01560,True,2232
-2320,Leonardo ,Herrada,Carrillo,1,529,christian.gomez@intertek.com,HECL840530HTSRRN09,09-05-84-4503-3,MX01170,True,1231
-2321,Edgar,Garcia,Guzman,1,529,christian.gomez@intertek.com,GAGE830512HMCRZD07,13-02-83-2237-1,MX01170,True,12
-2324,Jose Guadalupe,De La Cruz ,Renteria,1,529,christian.gomez@intertek.com,CURG830913HTSRND01,49-97-83-0070-2,MX01180,True,12
-2329,Urias,Gomez,Campero,1,546,christian.gomez@intertek.com,GOCU871009HCSMMR08,45-07-87-4586-1,MX01200,True,883
-2331,Luz Del Carmen ,Juarez,Perez,1,543,christian.gomez@intertek.com,JUPL861227MVZRRZ07,67-12-86-0361-9,MX01135,True,78
-2334,Irving De Jesus ,Díaz ,Laborde,1,529,christian.gomez@intertek.com,DILI910627HVZZBR02,65-13-91-1904-7,MX01540,True,2251
-2335,Blanca Estela ,Hernandez,Lopez,1,502,christian.gomez@intertek.com,HELB780715MMCRPL02,94-00-78-1070-1,MX01204,True,188
-2341,Juan Daniel ,Briones ,Reyes ,1,529,christian.gomez@intertek.com,BIRJ931227HNLRYN09,43-10-93-8246-5,MX01135,True,2331
-2344,Juan Carlos ,Magaña,Cortez,1,504,christian.gomez@intertek.com,MACJ790317HDFGRN08,01-01-79-0302-0,MX01560,True,1793
-2346,Jorge Arturo ,Sanchez,Rivas,1,546,christian.gomez@intertek.com,SARJ890829HTCNVR02,83-13-89-1354-2,MX01230,True,1632
-2347,Areli ,Sanchez ,Torres ,1,502,christian.gomez@intertek.com,SATA910803MMCNRR01,94-10-91-9995-3,MX01300,True,2211
-2351,Manuel Alejandro ,Brito,De La Rosa,1,509,christian.gomez@intertek.com,BIRM810324HDFRSN02,45-04-81-0893-5,MX01560,True,1793
-2361,Gregorio ,Vazquez,Sanchez,1,551,christian.gomez@intertek.com,VASG720312HPLZNR01,68-90-72-2504-6,MX01560,True,1793
-2363,Jose Luis,Govea,Alvarez,1,550,christian.gomez@intertek.com,GOAL840202HTCVLS09,83-10-84-0852-3,MX01565,True,2027
-2364,Rocio Amelia ,Romero,Mejia,1,509,christian.gomez@intertek.com,ROMR780714MDFMJC05,01-98-78-1235-9,MX01035,True,165
-2365,Carolina ,Galvan,Baldovino,1,502,christian.gomez@intertek.com,GABC781121MMCLLR07,20-97-78-2862-1,MX01205,True,188
-2377,Armando ,Miranda,López,1,502,christian.gomez@intertek.com,MILA900310HMCRPR03,96-08-90-8080-6,MX01204,True,188
-2383,Juan Jose ,Verduzco,Velazquez,1,551,christian.gomez@intertek.com,VEVJ780222HDFRLN07,92-01-78-0060-5,MX01560,True,1793
-2385,Yorhank ,De La Cruz ,Salinas,1,546,christian.gomez@intertek.com,CUSY870606HMCRLR05,83-12-87-0626-0,MX01200,True,883
-2390,Salvador ,Calderon,Villaseñor,1,531,christian.gomez@intertek.com,CAVS940325HDFLLL02,20-12-94-1182-1,MX01202,True,1683
-2391,Jorge Alfonso ,Velazquez,Guillen,1,529,christian.gomez@intertek.com,VEGJ890223HVZLLR08,67-08-89-2413-8,MX01145,True,42
-2394,Irma ,Ruiz,Sanchez,1,502,christian.gomez@intertek.com,RUSI910212MDFZNR03,01-13-91-0960-5,MX01400,True,623
-2410,Jessica Belem ,Bonilla,Estudillo,1,502,christian.gomez@intertek.com,BOEJ870628MVZNSS03,67-06-87-1553-0,MX01146,True,68
-2417,Diana Berenice,Martinez,Rodriguez,1,509,christian.gomez@intertek.com,MARD801017MDFRDN06,96-05-80-1085-9,MX01550,True,1759
-2418,German Esteban ,Reyes,Dzib,1,542,christian.gomez@intertek.com,REDG580528HCCYZR04,67-86-58-5197-5,MX01145,True,65
-2422,Maria Del Carmen Elvira,Ortiz,Gutierrez,1,542,christian.gomez@intertek.com,OIGC721009MDFRTR00,39-92-72-2726-2,MX01001,True,2522
-2424,Maria De Los Angeles ,Melendez,Jimenez,1,503,christian.gomez@intertek.com,MEJA921225MTSLMN09,09-13-92-4463-7,MX01130,True,78
-2428,Maria Angelica ,Romo,Ochoa,1,505,christian.gomez@intertek.com,ROOA910406MDFMCN00,45-14-91-0032-8,MX01560,True,2232
-2435,Nayeli ,Arroyo,Jacome,1,545,christian.gomez@intertek.com,AOJN890916MVZRCY05,67-09-89-1516-7,MX01145,True,1258
-2436,Zoraida ,Cedillo,Atzin,1,545,christian.gomez@intertek.com,CEAZ840627MVZDTR08,65-08-84-1787-1,MX01145,True,1258
-2447,Omar Adrian ,Rodriguez,Gonzalez,1,529,christian.gomez@intertek.com,ROGO860312HTSDNM06,09-04-86-4400-0,MX01180,True,12
-2452,Andres Leonardo ,Montes,Cordoba,1,526,christian.gomez@intertek.com,MOCA900808HDFNRN08,20-10-90-1223-5,MX01305,True,2247
-2459,Alberto ,Lepe,Langarica,1,528,christian.gomez@intertek.com,LELA630830HCMPNL00,52-79-63-0280-1,MX01115,True,2413
-2460,Ana Erika ,Martinez,Prieto,1,529,christian.gomez@intertek.com,MAPA880624MVZRRN03,65-06-88-3998-7,MX01150,True,1006
-2462,Roberto ,Garcia,Ballado,1,529,christian.gomez@intertek.com,GABR920816HVZRLB09,65-10-92-5103-6,MX01540,True,1006
-2467,Claudia Ivet ,Salvador ,Rivera ,1,563,christian.gomez@intertek.com,SARC861118MTCLVL01,83-12-86-0352-5,MX01565,True,
-2469,Joel ,Vega,Fernandez,1,502,christian.gomez@intertek.com,VEFJ880917HDFGRL01,94-11-88-1865-0,MX01202,True,1683
-2470,Judith Raquel ,Jimenez ,Corona,1,502,christian.gomez@intertek.com,JICJ901225MDFMRD02,03-14-90-5848-3,MX01201,True,874
-2473,Jazmin ,Rincon,Cervantes,1,502,christian.gomez@intertek.com,RICJ901102MDFNRZ04,92-07-90-1663-7,MX01203,True,211
-2482,Emerson Fernando ,Gutierrez ,Ramirez ,1,503,christian.gomez@intertek.com,GURE800131HDFTMM04,07-00-80-1826-4,MX01019,True,2522
-2489,Miguel Angel ,Rios,Castro,1,531,christian.gomez@intertek.com,RICM920503HGRSSG09,26-14-92-5593-2,MX01201,True,874
-2494,Marisol Aurora,Guillen,Gomez,1,501,christian.gomez@intertek.com,GUGM851215MTCLMR08,83-10-85-0260-6,MX01565,True,2027
-2497,Juan Carlos ,Urbina,Pegueros,1,502,christian.gomez@intertek.com,UIPJ880909HDFRGN09,37-07-88-1375-7,MX01201,True,874
-2498,Maria Martina ,Nava,Chiquito,1,535,christian.gomez@intertek.com,NACM690119MGTVHR01,12-06-69-0317-5,MX01425,True,597
-2500,Oderay ,Gonzalez ,Gabriel,1,509,christian.gomez@intertek.com,GOGO900815MDFNBD02,26-14-90-8848-1,MX01550,True,1759
-2501,Ernesto Alonso ,Lopez,Chavez,1,528,christian.gomez@intertek.com,LOCE850718HSRPHR00,24-02-85-0429-8,MX01505,True,148
-2502,Oscar Ariel ,Parra,Castro,1,528,christian.gomez@intertek.com,PACO881016HSRRSS03,24-13-88-1647-5,MX01505,True,
-2504,Efrain ,Gil,Romero,1,528,christian.gomez@intertek.com,GIRE640711HDGLMF06,23-91-64-0829-9,MX01505,True,863
-2520,Angel Manuel ,Aguila,Hernandez,1,526,christian.gomez@intertek.com,AUHA850927HTCGRN03,83-06-85-1281-9,MX01200,True,1632
-2521,Celestino ,Jimenez ,Jimenez,1,529,christian.gomez@intertek.com,JIJC580521HOCMML06,11-75-58-6173-6,MX01220,True,1743
-2522,Jose ,Hernandez,Vega,1,561,christian.gomez@intertek.com,HEVJ720421HDFRGS04,39-90-72-3299-3,MX01001,True,2084
-2525,Jorge Enrique ,Galicia,Hernandez,1,528,christian.gomez@intertek.com,GAHJ720728HVZLRR05,65-93-72-5430-1,MX01130,True,78
-2526,Alan Mauricio ,Melo,Carrizales,1,502,christian.gomez@intertek.com,MECA891212HTSLRL03,09-07-89-4595-4,MX01131,True,524
-2529,Nayeli ,Araus,Cordova,1,502,christian.gomez@intertek.com,AACN850516MVZRRY04,65-06-85-3182-4,MX01151,True,1006
-2540,Isidro Rolando ,Lira,Araujo,1,505,christian.gomez@intertek.com,LIAI950122HGTRRS09,12-13-95-9722-8,MX01425,True,597
-2541,Rodrigo Gabriel,Adam,Roldan,1,519,christian.gomez@intertek.com,AARR760222HDFDLD01,37-91-75-0993-9,MX01037,True,2084
-2543,Silvia ,Baizabal,Morales,1,503,christian.gomez@intertek.com,BAMS701231MVZZRL03,67-90-70-5047-9,MX01145,True,64
-2545,Jose Praxedis ,Martinez,Lopez,1,542,christian.gomez@intertek.com,MALP800507HCLRPR04,32-00-80-1744-7,MX01115,True,2413
-2548,Ana Araceli,Garcia,Trejo,1,501,christian.gomez@intertek.com,GATX891217MMCRRN03,92-09-89-3206-1,MX01004,True,2075
-2549,Gregory ,Arcos,Castorena,1,551,christian.gomez@intertek.com,AOCG860816HGRRSR05,92-09-86-0924-8,MX01560,True,1793
-2550,Ana Miriam ,Luna,Perez,1,502,christian.gomez@intertek.com,LUPA920417MDFNRN07,94-10-92-8886-3,MX01400,True,611
-2554,Elizabeth ,Dominguez,Martinez,1,501,christian.gomez@intertek.com,DOME890927MVZMRL07,67-12-89-0843-0,MX01145,True,65
-2557,Rudolf Alfred,Aleman,Hots,1,502,christian.gomez@intertek.com,AEHR890827HTSLTD06,09-07-89-3955-1,MX01131,True,524
-2559,Mayra,Narez,Cornelio,1,505,christian.gomez@intertek.com,NACM790115MTCRRY08,03-14-79-3033-7,MX01565,True,2027
-2562,Zuleyma,Cruz,Villalba,1,502,christian.gomez@intertek.com,CUVZ920520MTCRLL03,08-14-92-8032-6,MX01131,True,524
-2564,Jesus Alberto,De Los Santos,Hernandez,1,503,christian.gomez@intertek.com,SAHJ910607HVZNRS11,65-11-91-5542-5,MX01013,True,685
-2567,Daniel,Lopez,Hilario,1,546,christian.gomez@intertek.com,LOHD900822HTCPLN15,83-09-90-4551-6,MX01230,True,1632
-2568,Roberto Alonso,Lopez,Gonzalez,1,529,christian.gomez@intertek.com,LOGR880727HCHPNB08,33-07-88-4644-2,MX01155,True,
-2570,Maria Del Consuelo,Moreno,Zarco,1,502,christian.gomez@intertek.com,MOZC890525MDFRRN06,96-11-89-4204-2,MX01400,True,2541
-2571,Wendy Anahi,Galves,Benitez,1,501,christian.gomez@intertek.com,GABW920820MDFLNN08,96-11-92-7517-8,MX01004,True,2075
-2572,Edgar Julian,Lopez,Gutierrez,1,529,christian.gomez@intertek.com,LOGE921117HTSPTD04,17-14-92-7295-1,MX01170,True,1231
-2579,Yareli,Nava,Vega,1,502,christian.gomez@intertek.com,NAVY920921MMCVGR09,18-14-92-2892-8,MX01203,True,211
-2582,Vicente,Rubalcava,Gonzalez,1,503,christian.gomez@intertek.com,RUGV840228HDFBNC05,94-05-84-3242-1,MX01500,True,171
-2586,Raul Alejandro,Castillon,Rodriguez,1,501,christian.gomez@intertek.com,CARR890622HDFSDL06,19-40-88-9098-6,MX01001,True,353
-2588,Augusto Benjamin,Martinez De Aguilar,Martinez,1,529,christian.gomez@intertek.com,MAMA590907HDFRRG06,37-92-59-0159-9,MX01115,True,2413
-2591,Mauricio Xavier,Barajas,Saldivar,1,544,christian.gomez@intertek.com,BASM810507HDFRLR00,30-01-81-0125-0,MX01001,True,2629
-2594,Carlos Alberto,Reyes,Carrillo,1,529,christian.gomez@intertek.com,RECC841120HNLYRR05,19-14-84-0501-2,MX01170,True,1231
-2598,Martin de Jesus,Torres,Perez,1,529,christian.gomez@intertek.com,TOPM890614HTSRRR02,49-07-89-1148-1,MX01130,True,78
-2600,Hector Gabriel,Lopez,Zamilpa,1,529,christian.gomez@intertek.com,LOZH880307HVZPMC04,67-13-88-0970-1,MX01145,True,42
-2601,Carlos Humberto,Canche,Sanchez,1,528,christian.gomez@intertek.com,CASC680829HVZNNR06,67-90-68-5194-3,MX01145,True,44
-2602,Elmer Daniel,Santos,Estrada,1,528,christian.gomez@intertek.com,SAEE890125HVZNSL09,67-07-89-0262-3,MX01145,True,44
-2609,Jose Antonio,Valenzuela,Landeros,1,509,christian.gomez@intertek.com,VALA831204HDFLNN04,07-06-83-0103-0,MX01550,True,1759
-2614,Julio Cesar,Gonzalez,Martinez,1,529,christian.gomez@intertek.com,GOMJ850420HVZNRL03,67-03-85-3316-1,MX01145,True,42
-2615,Maria Elena,Ibarra,Mateos,1,562,christian.gomez@intertek.com,IAME731017MPLBTL00,62-96-73-6009-0,MX01415,True,2541
-2616,Moises,Codemo,Alvarez,1,529,christian.gomez@intertek.com,COAM871118HMNDLS07,53-05-87-0589-7,MX01110,True,2263
-2620,Luis Armando,Sotelo,Hernandez,1,519,christian.gomez@intertek.com,SOHL810701HGTTRS08,12-98-81-9432-5,MX01231,True,2084
-2622,Pedro,Lopez,De la Cruz,1,529,christian.gomez@intertek.com,LOCP890515HOCPRD02,67-12-89-0880-2,MX01145,True,42
-2624,Carlos,Ruiz,Gonzalez,1,546,christian.gomez@intertek.com,RUGC861104HDFZNR01,37-12-86-0311-7,MX01200,True,883
-2626,Andres,Mejia,Ventura,1,502,christian.gomez@intertek.com,MEVA831120HDFJNN07,45-08-83-1072-2,MX01400,True,293
-2627,Gonzalo,Matias,Arevalo,1,552,christian.gomez@intertek.com,ARGO780511HNERXN06,04-05-78-0843-0,MX01031,True,2541
-2628,Joel,Pichardo,Davalos,1,502,christian.gomez@intertek.com,PIDJ920806HMCCVL06,20-10-92-3099-3,MX01400,True,611
-2629,Humberto,Garcia,Tellez,1,508,christian.gomez@intertek.com,GATH730326HPLRLM09,42-91-73-1694-7,MX01001,True,2522
-2635,Maria Brijida,Navarrete,Javalera,1,502,christian.gomez@intertek.com,NAJB800723MCHVVR07,24-98-80-7437-3,MX01505,True,148
-2637,Pedro Gabriel,Jauregui,Roan,1,529,christian.gomez@intertek.com,JARP891120HVZRND01,09-07-89-4343-9,MX01180,True,12
-2642,Adrian,Corona,Cortez,1,533,christian.gomez@intertek.com,COCA640213HDFRRD04,17-83-64-2857-7,MX01560,True,1793
-2643,Monica,Mendoza,Maldonado,1,546,christian.gomez@intertek.com,MEMM910627MMCNLN06,96-11-91-6709-4,MX01200,True,1632
-2644,Carlos Alberto,Padilla,Ruiz,1,546,christian.gomez@intertek.com,PARC881027HMCDZR08,37-08-88-1594-1,MX01200,True,1632
-2645,Maibritt Yancuic,Flores Ibarra,Granados,1,509,christian.gomez@intertek.com,FOGM800120MDFLRB09,07-01-80-0390-0,MX01001,True,163
-2646,Mariana Fabiola,Curiel,Gonzalez,1,504,christian.gomez@intertek.com,CUGM840412MJCRNR08,22-08-84-0604-0,MX01550,True,1759
-2647,Jose Antonio,Rodriguez,Ramos,1,533,christian.gomez@intertek.com,RORA650930HDFDMN06,63-83-65-0685-5,MX01560,True,1793
-2648,Joaquin,Martinez,Gomez,1,529,christian.gomez@intertek.com,MAGJ910123HVZRMQ01,67-10-91-3140-8,MX01145,True,42
-2650,Julio Cesar,Chavarria,Hernandez,1,509,christian.gomez@intertek.com,CAHJ771116HDFHRL04,92-01-77-0795-8,MX01560,True,1793
-2651,Leticia,Tellez,Torres,1,509,christian.gomez@intertek.com,TETL771031MMCLRT08,45-96-77-2991-9,MX01200,True,883
-2654,Librado Francisco,Bravo,Cruz,1,546,christian.gomez@intertek.com,BACL910115HMCRRB03,96-12-91-3124-7,MX01200,True,
-2656,Pedro,Xolo,Toto,1,502,christian.gomez@intertek.com,XOTP910627HVZLTD04,19-14-91-0790-6,MX01151,True,2251
-2657,Sergio,Matus,Delgado,1,509,christian.gomez@intertek.com,MASS861201HDFTLR08,92-07-86-1405-1,MX01410,True,296
-2659,Hector,Lopez,Hernandez,1,529,christian.gomez@intertek.com,LOHH650919HDFPRC06,64-85-65-3412-4,MX01115,True,2413
-2662,Christian Tzamn,Gomez,Gomez,1,569,israelc@microsys.com.mx,GOGC810604HDFMMH08,37-05-81-0132,MX01002,True,1847
-2669,Jose De Jesus,Muñoz,Andrade,1,528,christian.gomez@intertek.com,MUAJ940220HCMXNS01,52-12-94-0817-6,MX01115,True,2545
-2670,Carlos Antonio,Guevara,Cruz,1,502,christian.gomez@intertek.com,CUGC860501HVZRVR09,67-07-86-3195-8,MX01148,True,1258
-2671,Juan,Cagal,Bautista,1,541,christian.gomez@intertek.com,CABJ881212HVZGTN00,67-05-88-1430-1,MX01145,True,65
-2672,Brayan Yair,Nouche,Gonzalez,1,528,christian.gomez@intertek.com,NOGB900806HVZCNR00,67-12-90-1359-4,MX01585,True,71
-2674,Raul Jose,Rodriguez,Ramirez,1,512,christian.gomez@intertek.com,RORR900309HMCDML05,92-09-90-2534-5,MX01210,True,1743
-2677,Gabriel,Galvan,Garcia,1,529,christian.gomez@intertek.com,GAGG900410HCMLRB00,52-06-90-0453-0,MX01115,True,2413
-2679,Reyna Esmeralda,Osorio,Alcocer,1,509,christian.gomez@intertek.com,OOAR890422MOCSLY07,78-09-89-1696-4,MX01010,True,727
-2680,Alejandra,Luna ,Escobar,1,509,christian.gomez@intertek.com,LUEA900322MDFNSL03,07-14-90-0036-1,MX01010,True,727
-2682,Brenda Guadalupe,Cruz,Celis,1,528,christian.gomez@intertek.com,CUCB900224MDFRLR06,08-14-90-3768-4,MX01405,True,1830
-2683,Octavio Humberto,Garcia,Lara,1,546,christian.gomez@intertek.com,GALO800325HDFRRC02,39-99-80-0780-9,MX01200,True,883
-2684,Claudia Itzel,Torres,Hurtado,1,502,christian.gomez@intertek.com,TOHC860211MDFRRL00,30-05-86-0812-3,MX01201,True,874
-2687,Alejandro,Luna ,Aguilar,1,546,christian.gomez@intertek.com,LUAA860901HHGNGL04,01-05-86-2538-3,MX01200,True,883
-2690,Juan Pablo,Valdez,Rodriguez,1,529,christian.gomez@intertek.com,VARJ890208HCMLDN00,52-04-89-0166-5,MX01115,True,2413
-2697,Abraham,Trujillo,Martinez,1,546,christian.gomez@intertek.com,TUMA901017HDFFRRB0,90-09-90-2390-6,MX01200,True,
-2698,Alejandro,Lopez,Flores,1,505,christian.gomez@intertek.com,LOFA890703HDFPLL00,94-05-89-0756-2,MX01560,True,1793
-2704,Israel,Flores,Sanchez,1,551,christian.gomez@intertek.com,FOSI820201HMCLNS06,92-04-82-0781-2,MX01560,True,1793
-2706,Ricardo,Luna,Martinez,1,509,christian.gomez@intertek.com,LUMR710906HDFNRC09,45-93-71-0581-0,MX01210,True,1743
-2708,Omar Alejandro,Aquino,Hernandez,1,529,christian.gomez@intertek.com,AUHO890115HVZQRM02,67-13-89-1646-4,MX01585,True,71
-2716,Oscar,Ventura,Gutierrez,1,501,christian.gomez@intertek.com,VEGO910412HTLNTS00,19-14-91-2139-4,MX01010,True,2747
-2717,Eduardo,Rodriguez,Mendez,1,529,christian.gomez@intertek.com,ROME900821HVZDND04,06-15-90-9215-3,MX01585,True,71
-2718,Bulmaro,Cruz,Martinez,1,529,christian.gomez@intertek.com,CUMB820225HVZRRL04,67-98-82-1414-3,MX01585,True,71
-2729,Miriam Griselda,Flores,Oviedo,1,509,christian.gomez@intertek.com,FOOM911017MMCLVR02,10-15-91-0850-4,MX01210,True,1743
-2730,Martin Alexis,Corona,Salazar,1,546,christian.gomez@intertek.com,COSM900708HDFRLR05,96-09-90-3731-7,MX01200,True,883
-2731,Inocencio,Alarcon,Cortes,1,529,christian.gomez@intertek.com,AACI721102HVZLRN19,67-90-72-5013-7,MX01145,True,42
-2732,Hector Luis,Torres,Dominguez,1,528,christian.gomez@intertek.com,TODH810118HVZRMC04,81-05-81-0100-7,MX01585,True,71
-2733,Josue,Romero,Torres,1,529,christian.gomez@intertek.com,ROTJ880618HVZMRS07,67-09-88-1459-2,MX01585,True,71
-2734,Luis Mahonry,Ponce,Vicente,1,529,christian.gomez@intertek.com,POVL940623HTSNCS09,08-15-94-2344-4,MX01585,True,71
-2736,Karla Aida,Gomez,Rodriguez,1,501,christian.gomez@intertek.com,GORK920623MVZMDR02,65-10-92-8039-9,MX01148,True,65
-2737,Ricardo Gerardo,Rocher,Rivas,1,503,christian.gomez@intertek.com,RORR930512HVZCVC05,17-15-93-6889-7,MX01145,True,65
-2741,Juan Pablo,Gonzalez,Zimbrón,1,502,christian.gomez@intertek.com,GOZJ910505HDFNMN08,17-15-91-3020-6,MX01010,True,727
-2742,Gabriel,Torres,Lopez,1,502,christian.gomez@intertek.com,TOLG860606HZVRPB06,67-08-86-1662-7,MX01146,True,68
-2743,Sandra,Godoy,Lopez,1,501,christian.gomez@intertek.com,GOLS901202MMCDON08,92-08-90-7943-5,MX01410,True,353
-2744,Carlos Eduardo,Perez,Jasso,1,502,christian.gomez@intertek.com,PEJE911219HDFRSR09,45-10-91-7459-4,MX01202,True,1683
-2745,Manuel,Borjas,Holguin,1,542,christian.gomez@intertek.com,BOHM840920HPLRLN05,40-03-84-3533-4,MX01415,True,2615
-2747,Hilda Cipactli,Arellano,Galindo,1,513,christian.gomez@intertek.com,AEGH730421MMCRLL02,43-92-73-7833-1,MX01035,True,224
-2748,Cesar,Rangel,Vera,1,528,christian.gomez@intertek.com,RAVC760922HCCNRS05,65-94-76-4010-1,MX01135,True,2331
-2749,Jonathan,Gonzalez,Valdes,1,509,christian.gomez@intertek.com,GOVJ920407HDFNLN06,03-15-92-9774-0,MX01410,True,296
-2750,Alan Gabriel,Soberanes,Guerra,1,509,christian.gomez@intertek.com,SOGA880812HDFBRL09,01-07-88-1288-8,MX01410,True,296
-2751,Jose Ismael,Estrada,Barbosa,1,501,christian.gomez@intertek.com,EABI651017HDFSRS07,30-88-65-1444-4,MX01001,True,
-2752,Magda Adriana,Morales,Saldaña,1,502,christian.gomez@intertek.com,MOSM941216MTSRLG07,26-15-94-2617-5,MX01131,True,524
-2753,Montserrat,Marino,Campos,1,512,christian.gomez@intertek.com,MACM890407MGRRMN03,12-12-89-0123-3,MX01425,True,2541
-2757,Angel,Alfaro,Medina,1,526,christian.gomez@intertek.com,AAMA911024HHGLDN04,13-08-91-1941-9,MX01315,True,2841
-2760,Mayra,Venegas,Diaz,1,502,christian.gomez@intertek.com,VEDM931001MMCNZY06,20-11-93-6048-3,MX01400,True,611
-2761,Karla Berenice,Vega,Garcia,1,502,christian.gomez@intertek.com,VEGK870104MSRGRR07,24-07-87-2681-7,MX01505,True,148
-2769,Vicente,Garcia,Mendez,1,543,christian.gomez@intertek.com,GAMV740502HJCRNC08,12-02-74-0397-6,MX01231,True,2620
-2771,Ricardo,Salazar,Robles,1,502,christian.gomez@intertek.com,SARR880207HOCLBC01,01-11-88-1192-4,MX01400,True,611
-2772,Marisela Guadalupe,Alonso,Venegas,1,505,christian.gomez@intertek.com,AOVM851007MSPLNR05,09-04-85-7918-0,MX01130,True,95
-2773,Tania Izaleth,Hernandez,Cespedes,1,505,christian.gomez@intertek.com,HECT930306MDFRSN00,94-11-93-8540-2,MX01001,True,2928
-2774,Jorge Eduardo,Aguilar,Alvarez,1,553,christian.gomez@intertek.com,AUAJ670820HDFGLR00,45-90-67-2611-7,MX01010,True,758
-2776,Jose Ruben,Diaz,Clemente,1,502,christian.gomez@intertek.com,DICR920615HTSZLB08,25-15-92-9487-2,MX01131,True,524
-2777,Diego Armando,Peña,Hurtado,1,505,christian.gomez@intertek.com,PEHD881004HDFXRG06,07-07-88-1319-8,MX01400,True,611
-2778,Ivan,Vazquez,Reyna,1,529,christian.gomez@intertek.com,VARI950116HBCZYV09,50-14-95-3221-5,MX01135,True,2331
-2780,Omar,Barrios,Dominguez,1,526,christian.gomez@intertek.com,BADO791022HDFRMM03,68-95-79-2151-0,MX01315,True,2841
-2783,Ana Karen,Mora,Rivero,1,502,christian.gomez@intertek.com,MORA911230MDFRVN04,94-10-91-9473-1,MX01400,True,611
-2787,Guadalupe Del Carmen,Rodriguez,Diaz,1,502,christian.gomez@intertek.com,RODG930809MDFZD04,93-11-93-0256-5,MX01400,True,
-2788,Gisela,Castro,Calzada,1,501,christian.gomez@intertek.com,CACG-860522-MDFSLS,94-03-86-0957-7,MX01017,True,758
-2789,Pablo Angel,Lozano Najera,Sanchez,1,502,christian.gomez@intertek.com,LOSP880628HGTZNB06,08-15-88-4862-5,MX01231,True,2620
-2790,Jocelyn,Simon,Salvador,1,502,christian.gomez@intertek.com,SISJ900714MMCMLC02,02-15-90-5602-3,MX01205,True,188
-2791,Karla Daniela,Tejeda,Espinosa,1,558,christian.gomez@intertek.com,TEEK890624MDFJSR05,27-14-89-8362-3,MX01305,True,688
-2793,Jose Ricardo,Guijosa,Vargas,1,502,christian.gomez@intertek.com,GUVR850920HMCJRC02,45-09-85-1253-1,MX01204,True,188
-2794,Cesar,Alfaro,Ochoa,1,546,christian.gomez@intertek.com,AAOC870212HMCLCS05,20-12-87-0024-0,MX01200,True,883
-2795,Nayeli,Lopez,Martinez,1,502,christian.gomez@intertek.com,LOMN851219MVZPRY05,21-07-85-2017-4,MX01146,True,68
-2796,Heriberto,Romero,Rivera,1,529,christian.gomez@intertek.com,RORH910604HCLMVR09,09-10-91-2233-4,MX01170,True,1231
-2797,Joel,Ramos,Aguilar,1,546,christian.gomez@intertek.com,RAAJ821214HDFMGL09,68-97-82-3233-5,MX01200,True,883
-2798,Pamela,Avendaño,Alvarado,1,528,christian.gomez@intertek.com,AEAP900829MMCVLM05,11-08-90-1075-2,MX01033,True,
-2799,Nancy Vianey,Gomez,Rosal ,1,504,christian.gomez@intertek.com,GORN900122MDFMSN07,19-14-90-1446-6,MX01410,True,2036
-2802,ALEXIS,Miranda,Iriarte,1,509,christian.gomez@intertek.com,MIIA900223HMCRRL08,28-13-90-0694-5,MX01410,True,296
-2803,MIGUEL ANGEL,Castro,Garcia,1,503,christian.gomez@intertek.com,CAGM801107HDFSRG08,45-99-80-0876-2,MX01200,True,785
-2804,SANDRA MARLEN,Arciga,Torres,1,502,christian.gomez@intertek.com,AITS920824MMCRRN00,94-11-92-9805-0,MX01400,True,608
-2808,NOE ADAN,Morales,Arizpe,1,546,christian.gomez@intertek.com,MOAN730908HDFRRX05,01-91-73-6377-0,MX01200,True,
-2810,LUIS FERNANDO,Rodriguez,Martinez,1,551,christian.gomez@intertek.com,ROML860320HNLDRS04,43-06-86-4017-6,MX01560,True,1793
-2821,Rodrigo Adrian,Martinez,Bañales,1,502,christian.gomez@intertek.com,MABR810803HGTRXD05,12-09-81-1099-7,MX01425,True,597
-2823,Luz Ivan,Zuñiga,Gonzalez,1,502,christian.gomez@intertek.com,ZUGL920328HGTXNZ09,26-15-92-6627-4,MX01425,True,597
-2824,Rafael Ignacio,Carrillo,De Luna,1,502,christian.gomez@intertek.com,CALR891009HVZRNF03,67-09-89-0568-9,MX01146,True,68
-2827,Danae Gustavo,Hernandez,Ordoñez,1,504,christian.gomez@intertek.com,HEOD760129HDFRRN05,16-99-76-0898-5,MX01410,True,2036
-2829,Cecilia,De Leon,Escobedo,1,544,christian.gomez@intertek.com,LEEC841228MNENSC02,48-05-84-2188-3,MX01037,True,2541
-2830,Jose Guillermo,Ahumada,Lerma,1,529,christian.gomez@intertek.com,AULG940525HNLHRL06,43-11-94-3745-7,MX01135,True,78
-2832,Carlos Alfredo,Aguirre,Gonzalez,1,531,christian.gomez@intertek.com,AUGC930314HDFGNR00,26-14-93-7474-1,MX01201,True,874
-2837,Berenice,Chavez,Florencio,1,502,christian.gomez@intertek.com,CAFB880322MDFHLR02,94-13-88-0920-0,MX01204,True,188
-2838,Fabian,Santiago,Antonio,1,502,christian.gomez@intertek.com,SAAF870104HOCNNB00,45-13-87-0033-6,MX01201,True,874
-2839,Sergio Cristobal,Alvarez,Villaseñor,1,529,christian.gomez@intertek.com,AA871107HMNLLR03,53-05-87-2526-7,MX01110,True,2263
-2840,Manuel ,Peña ,Caballero,1,502,christian.gomez@intertek.com,PECM910326HMCXBN01,16-12-91-2173-3,MX01415,True,2615
-2841,Maria Isabel ,Sanchez ,Vargas,1,542,christian.gomez@intertek.com,SAVI640124MDFNRS02,06-86-64-0695-9,MX01315,True,1772
-2842,Karla ,Diaz ,Mireles,1,504,christian.gomez@intertek.com,DIMK780320MPLZRR03,48-00-78-1816-3,MX01410,True,2036
-2846,Josue Isai ,Sanchez,Hernandez,1,529,christian.gomez@intertek.com,SAHJ901219HVZNRS00,67-09-90-3541-1,MX01145,True,42
-2853,Areli Viridiana ,Hernandez,Gonzalez,1,528,christian.gomez@intertek.com,HEGA830225MMCRNR04,30-04-83-0242-3,MX01405,True,1830
-2854,Bernardo ,Garcia,Soriano,1,505,christian.gomez@intertek.com,GASB930324HDFRRR06,94-11-93-8449-6,MX01210,True,1743
-2855,Carolina ,Ahumada,Espinosa,1,501,christian.gomez@intertek.com,AUEC941130MDFHSR06,10-16-94-7224-7,MX01019,True,2993
-2858,Ivan ,Sanchez,Zaragoza,1,551,christian.gomez@intertek.com,SAZI730630HCMNRV04,52-00-73-0331-7,MX01560,True,1793
-2861,Jaime  ,Garcia,Santiago,1,529,christian.gomez@intertek.com,GASJ951209HTSRNM09,09-12-95-0274-7,MX01180,True,12
-2862,Olivia  ,Bandala,Reyes,1,501,christian.gomez@intertek.com,BARO730913MDFNYL01,01-96-73-0973-1,MX01555,True,1962
-2866,Jose Manuel ,Curioca,Revuelta,1,551,christian.gomez@intertek.com,CURM591224HDFRV-NO,11-77-59-8364-3,MX01560,True,1793
-2878,Fatima Mallela ,Priego,Martinez,1,544,christian.gomez@intertek.com,PIMF861210MMCRRT01,37-09-86-0355-0,MX01001,True,2522
-2879,Montserrat ,Carbajal,Dominguez,1,553,christian.gomez@intertek.com,CADM820616MDFMRN04,45-06-82-1897-8,MX01560,True,1793
-2880,Montserrat ,Duran ,Granada,1,503,christian.gomez@intertek.com,DUGM920210MMCRRN06,02-15-92-8373-4,MX01220,True,1743
-2882,Luis Martin  ,Cardona,Valadez,1,504,christian.gomez@intertek.com,CAVL900703HASRLS06,51-09-90-1350-3,MX01410,True,2036
-2884,Laura Mariana ,Sanchez,Hernandez,1,568,christian.gomez@intertek.com,SAHL750129MDFNRR08,42-06-75-0045-6,MX01019,True,2522
-2885,Juan Arnulfo ,Rivera,Garcia,1,505,christian.gomez@intertek.com,RIGJ921005HMNVRN01,20-10-92-3113-2,MX01200,True,296
-2886,Deni Mahets´I ,Serrano,Flores,1,503,christian.gomez@intertek.com,SEFD950911MHGRLN02,25-16-95-0173-8,MX01555,True,1962
-2888,Omar  ,Hernandez,Muñez,1,504,christian.gomez@intertek.com,HENO861026HDFRXM08,94-10-86-1181-8,MX01410,True,2036
-2889,Joaquin Alberto  ,Velsco,Guzman,1,100,christian.gomez@intertek.com,VEGJ860405HVZLZQ00,65-07-86-2807-3,MX01130,True,78
-2890,Brenda Irais  ,Vazquez,Medina,1,505,christian.gomez@intertek.com,VAMB910910MDFZDR06,01-10-91-2549-0,MX01500,True,171
-2891,Marisol  ,Ortega,Colores,1,528,christian.gomez@intertek.com,OECM891227MDFRLR09,01-12-89-1211-8,MX01405,True,1830
-2894,Oscar Hiram Lopez Zarate,Lopez,Zarate,1,529,christian.gomez@intertek.com,LOZO880804HOCPRS04,09-04-88-0585-8,MX01150,True,1006
-2898,Lucia Liliana Hernandez Lopez,Hernandez,Lopez,1,552,christian.gomez@intertek.com,HELL920731MGTRPC09,64-16-92-3827-2,MX01231,True,2620
-2899,Paulina  Torres  Calderon,Torres,Calderon,1,552,christian.gomez@intertek.com,TOCP880603MGTRLL09,12-12-88-2596-0,MX01231,True,2620
-2901,Alan,Mayorga,Rueda,1,501,christian.gomez@intertek.com,MARA940819HGRYDL03,18-16-94-9530-8,MX01305,True,2164
-2908,Eduardo Guadalupe,Beltran,Orduño,1,528,christian.gomez@intertek.com,BEOE931028HSLLRD12,73-16-93-4606-8,MX01505,True,
-2911,Xochitl,Pavon,Gonzalez,1,512,christian.gomez@intertek.com,PAGX871228MVZVNC03,67-11-87-1968-0,MX01145,True,65
-2913,Omar Alejandro,Nañez,Santiago,1,529,christian.gomez@intertek.com,NASO810803HVZXNM03,65-00-81-3743-5,MX01180,True,12
-2914,Rosa Iris,Patlani,Cristobal,1,526,christian.gomez@intertek.com,PACR840307MDFTRS04,30-08-84-0294-3,MX01305,True,2841
-2915,Christian,Leon,Sanchez,1,546,christian.gomez@intertek.com,LESC891114HMCNNH02,94-12-89-0144-7,MX01200,True,1632
-2916,Isay Eduardo,Morales,Nicolas,1,546,christian.gomez@intertek.com,MONI-900715-HDFRCS,03-15-90-0151-4,MX01200,True,1632
-2917,Jose Eduardo,De Anda,Lopez,1,502,christian.gomez@intertek.com,AALE-930911-HDFNPD,18-16-93-5065-1,MX01415,True,2745
-2918,Jose Daniel  Treviño  Luis,Treviño,Luis,1,529,christian.gomez@intertek.com,TELD940103HNLRSN07,43-13-94-0790-2,MX01170,True,1231
-2920,Nancy Estafani Bermudez Del Angel,Bermudez,Del Angel,1,501,christian.gomez@intertek.com,BEAN-930128-MDFRN-,39-11-93-4684-7,MX01400,True,2541
-2922,Lorena Lizbeth  Salgado Hernandez,Salgado ,Hernandez,1,504,christian.gomez@intertek.com,SAHL-821026-MDFLR-,01-06-82-0470-8,MX01410,True,2036
-2923,Erika Vianey Salas Romero,Salas,Romero,1,512,christian.gomez@intertek.com,SARE841025MDFLMR05,39-01-84-1637-8,MX01415,True,2541
-2924,Anel Monserrat  Lara  Piña,Lara,Piña,1,502,christian.gomez@intertek.com,LAPA930529MDFRXN03,46-11-93-0661-4,MX01415,True,2541
-2926,Karen Stephanie,Perez,Vazquez,1,509,christian.gomez@intertek.com,PEVK930321MDFRZR00,96-10-93-2544-7,MX01220,True,1743
-2927,Cesar David ,Gonzalez,Montoya,1,512,christian.gomez@intertek.com,GOMC-851222HDFNNS0,01-08-85-1089-4,MX01415,True,2541
-2928,Jose Carlos ,Parra,Moreno,1,544,christian.gomez@intertek.com,PAMC-810418-HMCRR-,92-97-81-0137-3,MX01001,True,2629
-2929,Azucena ,Ortiz,Ladin,1,502,christian.gomez@intertek.com,OILA901216MDFRNZ07,92-13-90-2175-9,MX01010,True,312
-2931,Carlos Daniel ,Bautista,Guzman,1,546,christian.gomez@intertek.com,BAGC910906HMCTZR04,92-10-91-8016-3,MX01200,True,1632
-2932,Areli Del Carmen  ,Orbe,Hernandez,1,541,christian.gomez@intertek.com,OEHA821209MVRRR05,65-01-82-1434-9,MX01150,True,685
-2933,Jaime ,Hernandez,Muñoz,1,546,christian.gomez@intertek.com,HEMJ810817HPLRXM07,07-99-81-1810-8,MX01200,True,883
-2935,Angelica ,Muñoz,Vazquez,1,502,christian.gomez@intertek.com,MUVA-921117-MDFXZ-,18-16-92-8089-0,MX01204,True,188
-2936,Alejandro  ,Moreno,Cadena,1,529,christian.gomez@intertek.com,MOCA-600627-HVZRD-,65-82-60-4039-9,MX01145,True,42
-2937,Nestor Alberto  ,Zea,Elizalde,1,509,christian.gomez@intertek.com,ZEEN830331-HDFXL-S,20-01-83-0509-2,MX01001,True,2629
-2938,Sheila Valeria  ,Lopez,Moreno,1,505,christian.gomez@intertek.com,LOMS-870725-MDFPR-,01-11-87-0062-2,MX01200,True,1632
-2939,Abril Pamela ,Cruz,Juarez,1,503,christian.gomez@intertek.com,CUJA930824MMCRR-B0,94-11-93-9493-3,MX01001,True,2928
-2940,Guadalupe Berenice,Damian,Turcio,1,546,christian.gomez@intertek.com,DATG-890302-MMCMR-,28-13-89-0253-2,MX01200,True,883
-2942,Carlos,Canseco,Ronquillo,1,502,christian.gomez@intertek.com,CARC-920505-HDFNN-,96-11-92-7722-4,MX01204,True,1932
-2943,Janet ,Garcia,Ortiz,1,502,christian.gomez@intertek.com,GAOJ-900827-MMCRR-,18-14-90-2375-8,MX01200,True,785
-2944,Virginia ,Hernandez,Rodriguez,1,502,christian.gomez@intertek.com,HERV910131MVZRD-R0,38-14-91-7696-8,MX01146,True,64
-2945,Alfredo Jose ,Jauregui,Hernandez,1,529,christian.gomez@intertek.com,JAHA841020HVZRRL09,67-08-84-1602-8,MX01145,True,42
-2946,Eduardo ,Sanmiguel,Vasquez,1,529,christian.gomez@intertek.com,SAVE931115HTSNSD03,19-14-93-4583-7,MX01170,True,1231
-2947,Daniel ,Martinez,Prieto,1,39,christian.gomez@intertek.com,MAPD-940717-HVZRRN,65-12-94-2896-0,MX01150,True,1006
-2948,Daniela Vanessa ,Villalobos,Vazquez,1,502,christian.gomez@intertek.com,VIVD-920825-MVZLZ-,17-15-92-7933-4,MX01146,True,64
-2949,Carlos Alfonso ,Galan,Suazo,1,546,christian.gomez@intertek.com,GASC-900822-HMCLZ-,90-09-90-3053-9,MX01200,True,883
-2951,Lorena ,Torres,Garcia,1,501,christian.gomez@intertek.com,TOGL-930802-MDFRR-,42-11-93-4848-2,MX01019,True,2993
-2952,Ana Luisa ,Tejeda,Garcia,1,509,christian.gomez@intertek.com,TEGA-920304-MVZJR-,16-16-92-2312-6,MX01010,True,727
-2954,Maryana ,Nogal,Frayre,1,501,christian.gomez@intertek.com,NOFM-860903-MDFGR-,09-02-86-0315-8,MX01001,True,2591
-2955,Laura Judith ,Cruz,Gutierrez,1,501,christian.gomez@intertek.com,CUGL-910820-MDFRT-,27-14-91-3678-3,MX01400,True,2541
-2956,Valeria Emmanuelle,Morales,Manzanilla,1,501,christian.gomez@intertek.com,MOMV-890706-MDFRN-,92-09-89-2094-2,MX01001,True,2591
-2957,Jorge Armando ,Espinoza,Martinez,1,529,christian.gomez@intertek.com,EIMJ-960901-HCLSR-,32-13-96-4869-8,MX01185,True,1414
-2958,Brenda ,Gonzalez,Martinez,1,505,christian.gomez@intertek.com,GOMB-930406-MDFNR-,01-11-93-1411-8,MX01004,True,2075
-2959,Roman ,Esquivel,Donjuan,1,39,christian.gomez@intertek.com,EUDR-960809-HTSSN-,26-15-96-1595-9,MX01180,True,12
-2960,Sandra Maria ,Alonso,Hernandez,1,503,christian.gomez@intertek.com,AOHS-930718-MGTLR-,12-12-93-8734-1,MX01425,True,597
-2962,Erick Yoesias ,Guadarrama,Sanchez,1,501,christian.gomez@intertek.com,GUSE-911009-HDFDN-,92-08-91-0045-4,MX01010,True,758
-2963,Erika Gabriela ,Sierra,Atanacio,1,502,christian.gomez@intertek.com,SIAE-920319-MDFRT-,92-10-92-8415-5,MX01205,True,188
-2964,Jesus Alberto ,Veliz,Esquivel,1,529,christian.gomez@intertek.com,VEEJ-910925-HTSLS-,09-07-91-1071-5,MX01170,True,1231
-2965,Israel ,Gonzlez,Blanco,1,529,christian.gomez@intertek.com,GOBI840331HVZNLS03,67-06-84-1306-0,MX01585,True,71
-2966,Porfirio ,Roman ,Molina,1,529,christian.gomez@intertek.com,ROMP-640915-HVZML-,67-84-64-5619-1,MX01145,True,2418
-2967,Beatriz,Ramirez,Lazaro,1,501,christian.gomez@intertek.com,RALB-900928-MMCMZ-,90-06-90-1432-3,MX01300,True,1824
-2968,Raul,Montalvo,Lara,1,39,christian.gomez@intertek.com,MOLR-730810-HMCNR-,39-97-73-1616-3,MX01100,True,171
-2969,Olivia  ,Tellez,Marquez,1,509,christian.gomez@intertek.com,TEMO-760720-MHGLR-,68-92-76-0564-9,MX01001,True,2591
-2970,Jorge Antonio ,Garcia,Reyes,1,501,christian.gomez@intertek.com,GARJ-920124-HDFRY-,17-14-92-0260-2,MX01005,True,1187
-2971,Edson Artemio,Ruiz,Tino,1,505,christian.gomez@intertek.com,RUTE-920828-HVZZN-,67-10-92-3154-7,MX01148,True,2418
-2972,Jose Angel ,Vazquez,Morales,1,505,christian.gomez@intertek.com,VAMA-900509-HVZZR,67-12-90-2911-1,MX01145,True,2418
-2973,Alejandro Federico ,Muñoz ,Herrera,1,528,christian.gomez@intertek.com,MUHA-800504-M47,11-02-80-0995-6,MX01405,True,1830
-2974,Erick ,Ordoñez,Covarrubias,1,509,christian.gomez@intertek.com,OOCE-850506-HDFRV-,05-16-85-3303-1,MX01019,True,
-2975,Gabriel,Garcia,Goytia ,1,546,christian.gomez@intertek.com,GAGG-920401-HDGRY-,31-11-92-5506-0,MX01200,True,883
-2976,Manuel Alejandro ,Belmar ,Valadez ,1,546,christian.gomez@intertek.com,BEVM-860215-HCHLL-,33-02-86-2125-9,MX01200,True,883
-2977,Francisco Javier,Lopez,Luna ,1,512,christian.gomez@intertek.com,LOLF-690215-HDFPN-,39-89-69-0701-9,MX01415,True,2541
-2978,Mario Alejandro,Hernandez,Rojas,1,503,christian.gomez@intertek.com,HERM-931026-HDFRJ-,45-12-93-6516-4,MX01410,True,2036
-2979,Osvaldo,Cordero,Muciño ,1,503,christian.gomez@intertek.com,COMO-931124-HDFRC-,42-03-93-0009-2,MX01410,True,2036
-2980,Erick Alejandro,Collado ,Solar,1,502,christian.gomez@intertek.com,COSE-910720-HVZLL-,25-14-91-7953-0,MX01146,True,64
-2981,Daniel,Peralta ,Santiago ,1,529,christian.gomez@intertek.com,PESD-850820-HVZRN-,67-11-85-0247-4,MX01145,True,2418
-2982,Brenda Fernanda,Rodriguez ,Santana ,1,505,christian.gomez@intertek.com,ROSB-940903-MMCDN-,94-13-94-3913-0,MX01220,True,1743
-2983,Jesus Axel,Sotelo ,Cruz ,1,512,christian.gomez@intertek.com,SOCJ-830111-HDFTR-,01-02-83-0930-8,MX01415,True,
-2984,Victor Jair,Hernandez,Yañez ,1,505,christian.gomez@intertek.com,HEYV-940519-HTCRX-,25-16-94-9849-7,MX01146,True,64
-2985,Jose Manuel,Gomez,Salazar,1,551,christian.gomez@intertek.com,GOSM-860529-HPLML-,07-08-86-0202-9,MX01560,True,1793
-2986,Natalia,Angulo,Salgado,1,507,christian.gomez@intertek.com,AUSN-780914-MDFNL-,11-99-78-0694-5,MX01001,True,2629
-2987,Mario Alberto,Posadas,Ahumada,1,529,christian.gomez@intertek.com,POAM-960804-HNLSH-,06-13-96-9010-0,MX01135,True,
-2989,Ricardo,Lopez,Lopez,1,505,christian.gomez@intertek.com,LOLR-880311-HVZPP-,67-13-88-0048-6,MX01146,True,64
-2990,Jose Ignacio,Tadeo ,Guzman ,1,505,christian.gomez@intertek.com,TAGI-950413-HCMDZ-,52-10-95-2423-2,MX01115,True,2545
-2991,Roberto Adolfo,Perez ,Barajas ,1,503,christian.gomez@intertek.com,PEBR-910927-HMCRR-,98-10-91-1420-1,MX01400,True,611
-30001,Alexis,Ayala,Jurado,1,519,israelc@microsys.com.mx,AYJASKDKS,343242,MX0100,True,
+idPersonal,nombre,apaterno,amaterno,curp,ss
+12,Hugo Cesar ,De La Peña,Castillo,PECH621126HTSXSG06,49-82-62-5633-8
+16,Osvaldo ,Saucedo ,Duran,SADO531113HCLCRS01,32-76-53-1555-4
+37,Enrique ,Aguirre ,Cortez,AUCE690902HVZGRN06,67-92-69-5213-5
+42,Inocente ,Cardenas,Cordejo,CACI610105HVZRRN02,67-79-61-0487-4
+43,Angel Mario ,Colorado ,Mendez ,COMA540119HVZLNN01,67-72-54-0668-9
+44,Emilio ,Cruz ,Vazquez,CUVE610727HVZRZM02,67-80-61-3278-2
+61,Patricia ,Ventura,Castillo,VECP660711MVZNST09,67-86-66-5328-9
+64,Gumaro ,Castillo,Dominguez,CADG621011HVZSMM00,67-90-62-5019-5
+65,Maria Del Carmen ,Chairez,Lopez,CALC620512MVZHPR06,67-80-62-4868-7
+67,Maricruz ,Cruz ,Perez,CUPM720529MDFRRR08,67-92-72-5368-1
+68,Natalia Aleida ,De La Cruz ,Flores,CUFN641201MPLRLT05,67-97-64-5014-7
+69,Jose Fidel ,Lara,Hernandez,LAHF681107HVZRRD04,67-86-68-8861-2
+71,Alejandro,Ramos,Guevara,RAGA691123HVZMVL08,67-93-69-5031-9
+75,Javier ,Perez,Dorantes,PEDJ770530HVZRRV03,67-96-77-7033-9
+77,Guillermo ,Barron,Peralta,BAPG701123HTSRRL03,09-89-70-7558-7
+78,Cesar ,Blas,Castillo,BACC641124HTSLSS07,49-88-64-2202-8
+81,Fernando Enrique ,Garcia,Hernandez,GAHF650818HTSRRR00,49-87-65-3688-6
+83,Mauro ,Hernandez,Hernandez,HEHM790206HPLRRR03,49-96-79-7640-5
+84,Hector Manuel ,Lepe,Rico,LERH600225HTSPCC06,49-78-60-0517-0
+85,Jose Armando ,Lepe,Rico,LERA580827HTSPCR09,49-75-58-1654-0
+88,Luis Enrique ,Rodriguez,Bermudez,ROBL760324HTSDRS01,49-94-76-6322-2
+92,Luis ,Hernandez,Hernandez,HEHL660603HVZRRS09,67-88-66-5232-9
+95,Martha Catalina ,Sanchez,Garcia,SAGM701023MTSNRR04,67-98-70-1451-0
+104,Jose ,Concepcion,Torres,TOCO541209HTSRXN09,49-74-54-0948-9
+111,Raul ,Alonso,Torres,AOTR660430HVZLRL03,41-82-64-2333-1
+120,Maria Luisa ,Rojas,Paxtian,ROPL700824MVZJXS04,65-89-70-1800-1
+148,Jorge Luis ,Medina,Calderon,MECJ740715HSRDLR07,24-98-74-1603-9
+163,Fernando Baltazar ,Vega,Ventura,VEVF650531HMCGNR08,01-83-65-2419-7
+165,Ricardo ,Castillo,Solis,CASR670608HDFSLC05,30-89-67-3206-9
+166,Gerardo ,Perez,Hernandez,PEHG510925HDFRRR10,01-73-51-8009-1
+171,Jose,Ochoa,Quevedo,OOQJ610515HDFCVS09,06-78-61-0158-1
+180,Maria De Lourdes ,Fernandez,Salazar,FESL791018MMCRLR04,45-00-79-2135-1
+186,Luis ,Huerta,Aguilar,HUAL700511HDFRGS02,94-87-70-1961-5
+188,Veronica ,Luna,Mondragon,LUMV750316MDFNNR05,45-91-75-1853-7
+190,Jose Israel ,Martinez,Sanchez,MASI791023HMCRNS05,90-97-79-3178-2
+200,Alfredo ,Resendiz,Camilo,RECA640206HDFSML01,42-84-64-3222-9
+202,Manglio Ernesto ,Rodriguez,Carbajal,ROCM671006HDFDRN13,11-99-67-0234-3
+204,Guillermo ,Serralde,Narciso,SENG710625HDFRRL08,11-00-71-0224-4
+206,Emma Leticia ,Treviño,Nuñez,TENE741225MDFRZM06,37-95-74-0364-7
+208,Luis Enrique ,Yañez,Fuentes,YAFL791207HDFZNS07,42-00-79-0189-7
+211,Luis ,Zavala,Rosales,ZARL810713HDFVSS00,45-97-81-0626-3
+216,Hilario ,Crescencio,Esquivel,CEEH750110HDFRSL07,76-02-75-0005-7
+224,Miguel Angel ,Morales,Solano,MOSM680904HDFRLG03,30-87-68-4061-9
+228,Alejandro ,Sanchez,Sanchez,SASA530113HDFNNL00,11-91-53-0134-2
+234,Rene ,Arriaga,Gonzalez,AIGR591113HPLRNN06,67-75-59-0924-8
+237,Mario Jorge ,Zapien,Mora,ZAMM650815HDFPRR05,88-83-65-0799-1
+238,Braco Rogelio ,Presbitero,Dorantes,PEDB671130HDFRRR00,30-92-67-0233-0
+250,Jesus Enrique ,Macias,Aguilar,MAAJ700221HDFCGS02,96-98-70-0090-6
+251,Liliana ,Ontiveros,Soto,OISL730428MDFNTL07,11-93-73-3976-7
+253,Raul ,Ramirez,Leon,RALR620704HMCMNL00,10-81-62-2391-0
+259,Adrian ,Maximo,Castillo,MACA680304HDFXSD03,90-96-68-0159-0
+261,Veronica,Amador,Burgoa,AABV710312MDFMRR09,39-92-71-6096-8
+268,Raquel ,Manjarrez,Ayala,MAAR680503MDFNYQ01,11-90-68-2298-3
+274,Alma Laura ,Torres,Solano,TOSA760115MDFRLL05,11-93-75-1760-2
+293,Lucia ,Ramirez,Padron,RAPL801213MDFMDC07,68-95-80-2687-1
+296,Flavia Ivette ,Perez,Mendoza,PEMF810210MDFRNL08,68-95-81-0128-6
+310,Jorge ,Garcia,Rodriguez,GARJ640120HMNRDR08,53-90-64-1687-9
+312,Violeta ,Sosa,Hernandez,SOHV780914MOCSRL01,68-93-78-4589-6
+313,Hector ,Perez,Aquino,PEAH560702HDFRQC05,42-97-56-0044-8
+328,Oscar Roger ,Castro,Santos,CASO660131HYNSNS00,20-87-66-0011-3
+348,Miguel Angel ,Fernandez,Morales,FEMM671005HDFRRG01,01-85-68-0229-1
+353,Edgar Ariosto ,Aguilar,Lopez,AULE800329HCSGPD04,71-97-80-1181-6
+372,Martin Antonio ,Cano,Garza,CAGM660205HNLNRR05,30-87-66-2400-5
+385,Karla Itzel ,Ramirez ,Herrejon,RAHK840224MTSMRR06,09-03-84-4369-4
+390,Orbelin ,Lopez ,Tejeda,LOTO610516HVZPJR00,67-77-61-0465-4
+399,Anabel ,Huerta,Bartolo,HUBA830117MDFRRN08,11-04-83-0167-2
+411,Mario De Jesus,Pereyra,Ruiz,PERM830925HVZRZR07,11-02-83-0257-5
+418,Monica Berenice ,Arellano,Luna,AELM751003MDFRNN06,39-94-75-4997-6
+436,Luz Adriana ,Torres,Lopez,TOLL830521MVZRPZ01,67-01-83-1398-0
+507,David ,Cisneros,Lopez,CILD710304HDFSPV05,92-92-71-5954-8
+523,Julio Cesar ,Arevalo,Rodriguez,AERJ810117HDFRDL08,68-95-81-0886-9
+524,Evodio ,Flores,Olguin,FOOE741011HTSLLV09,49-97-74-0981-9
+534,Gabriela ,Ordoñez,Gutierrez,OOGG700606MDFRTB01,70-88-70-0551-3
+563,Javier ,Martell,Hernandez,MAHJ820831HDFRRV07,68-97-82-3801-9
+564,Heriberto ,Espinosa,Cortes,EICH661005HOCSRR10,10-86-66-0325-0
+572,Araceli ,De La Cruz ,Ortiz,CUOA780428MDFRRR06,94-95-78-1154-3
+573,Efigenia ,Cruz ,Chavarria,CUCE781014MDFRHF05,07-02-78-0191-4
+577,Lilia Susana ,Aquino ,Ignacio,AUIL740919MDFQGL01,68-95-74-0669-4
+588,Juan ,Gonzalez ,Tamayo,GOTJ830824HDFNMN08,45-05-83-0326-9
+590,Jacquelin ,Jimenez ,Lopez,JILJ810328MDFMPC04,28-00-81-1156-0
+597,Julio Cesar ,Ortega,Meza,OEMJ830813HDFRZL05,07-02-83-0969-3
+603,Monica ,Garcia,Frias,GAFM790916MMCRRN01,07-02-79-0610-1
+608,Diana ,Valencia,Paz,VAPD710203MDFLZN08,94-92-71-0200-7
+611,Elizabeth ,Hernandez,De Santiago,HESE760119MDFRNL02,68-92-76-6236-8
+622,Beatriz ,Lozano,Mendez,LOMB790822MDFZNT00,11-98-79-4479-7
+623,Joel ,Orduña,Santiago,OUSJ820123HDFRNL06,11-05-82-0360-2
+627,Erasto ,Valderrabano,Hernandez,VAHE620819HPLLRR08,17-85-62-0479-1
+673,Clara ,Cuevas,Huesca,CUHC720913MDFVSL09,39-91-72-7893-7
+684,Salvador ,Hernandez,Tristan,HETS781203HTSRRL03,49-95-79-4426-4
+685,Carlos ,Garcia,Alvarez,GAAC820607HTSRLR07,41-00-82-3552-9
+688,Norma Thalia,Diaz,Madrigal,DIMN830608MDFZDR01,90-05-83-0265-5
+727,Olga ,Alcantara,Ceron,AACO820515MDFLRL08,92-99-82-3800-7
+749,Bernice ,Guerra,Mena,GUMB740114MNERNR12,11-98-74-1874-3
+758,Haydee ,Pelaez,Topete,PETH801126MDFLPY09,96-99-80-2078-6
+785,Armando ,Flores,Rendon,FORA700827HDFLNR00,20-88-70-1209-2
+789,Juan ,Perales,Moreno,PEMJ620519HNLRRN07,67-88-61-5085-2
+811,Felipe Neri ,Martinez,Gonzalez,MAGF710915HMCRNL01,45-93-71-3587-4
+815,Adriana De Jesus,Medina,Carrera,MECA780105MCHDRD08,35-94-78-4009-2
+818,Ma De Los Remedios ,Narvaez,Hernandez,NAHR700901MDFRRR03,20-91-70-0009-1
+825,Oscar ,Pueblita,Ortega,PUOO710129HDFBRS06,68-93-71-0212-4
+854,Sergio ,Morales,Arias,MOAS780908HGRRRR09,72-96-78-0745-3
+863,Alfonso,Emeterio,Lopez,EELA760313HVZMPL05,25-97-76-0541-6
+865,Laura Zenith ,Neri,Ortiz,NEOL810815MDFRRR02,68-97-81-1253-7
+874,Jaime ,Martinez,Rosas,MARJ770224HDFRSM05,45-06-77-0105-7
+877,Arturo ,Moreno,Rojas,MORA631114HDFRJR02,06-80-63-0249-0
+883,Ezequiel ,Garcia,Rosas,GARE720322HDFRSZ08,20-88-72-1018-3
+886,Julio Cesar ,Felix,Gonzalez,FEGJ691227HSRLNL06,24-87-69-2538-9
+949,Gil ,Carreon,Rodriguez,CARG770114HDFRDL08,68-93-77-0048-9
+993,Hermes ,Mondragon,Escalona,MOEH790126HDFNSR08,45-00-79-0324-3
+994,David,Yañez,Mendoza,YAMD711009HMCZNV09,68-90-71-1750-8
+1006,Rogelio ,Pineda ,Sanchez,PISR770227HDFNNG06,20-93-77-0686-7
+1010,Miguel Antonio ,Cisneros,Hernandez,CIHM760613HVZSRG06,67-99-76-1361-6
+1020,Daniel ,Burgos,Mena,BUMD861112HCSRNN02,67-06-86-2941-8
+1034,Silverio Miguel ,Herrera ,Bonilla,HEBS580620HDFRNL03,42-90-58-0004-3
+1048,Gustavo Sotero ,Hernandez ,Carbajal ,HECG730128HVZRRS09,67-93-73-5531-0
+1073,Maribel ,Leonel,Guzman,LEGM810807MDFNZR02,94-99-81-1314-9
+1078,Jose De Jesus ,Flores,Ballesteros,FOBJ811125HDFLLS16,92-02-81-2643-8
+1104,Maria Elena ,Bautista ,Paz,BAPE850505MDFTZL05,94-03-85-3593-9
+1107,Pablo Antonio ,Garcia,Juarez,GAJP640115HDFRRB04,89-83-64-0450-2
+1148,Eva Berenice ,Ortiz,Rodriguez,OIRE820709MDFRDV05,11-04-84-0094-6
+1187,Cristobal Omar ,Rojas,Gonzalez,ROGC820614HDFJNR07,11-07-82-0683-3
+1203,Alberto ,Ortega ,Hernandez,OEHA740930HHGRRL05,92-01-74-0741-9
+1214,Daniela Libertad ,Jimenez ,Vazquez,JIVD800915MMCMZN04,37-98-80-3397-5
+1216,Claudia,Lezama,Bautista,LEBC821117MDFZTL04,07-06-82-0144-6
+1218,Jesus Alejandro ,Salinas ,Cruz,SACJ880405HTSLRS02,09-04-88-3396-7
+1219,Gustavo Ernesto,Reyes,Torres,RETG840116HTSYRS05,09-01-84-5621-1
+1231,Francisco Damian ,Ponce,Villegas,POVF731210HVZNLR00,49-96-73-1729-5
+1250,Maria Irene ,Rios,Rios,RIRI650418MGTSSR04,07-89-65-0179-3
+1258,Carlos Martin ,Flores,De Jesus ,FOJC771203HVZLSR00,67-96-77-7160-0
+1282,Daniel Benjamin ,Perez,Roman,PERD791030HDFRMN00,28-05-79-0114-3
+1320,Gustavo De Jesus ,Beltran,Guillen,BEGG851101HVZLLS07,67-04-85-1672-7
+1322,Gabriel,Sandoval,Merida,SAMG700227HDFNRB06,11-89-70-2369-0
+1333,Juan Carlos ,Cervantes,Chavez,CECJ851216HDFRHN00,39-94-75-8461-9
+1335,Oscar ,Cortes,Cruz,COCO760719HDFRRS02,45-96-76-0890-7
+1344,Camerino ,Melchor ,Cortes ,MECC740829HMNLRM04,94-90-74-0459-7
+1369,Jose Fidencio ,Castillo,Arias,CAAF881230HSPSRD08,65-07-88-3936-5
+1375,Gerardo ,Rubio,Alvarez,RUAG720125HMNBLR08,01-95-72-0634-3
+1395,David,Cano,Trejo,CATD820501HMCNRV02,96-08-82-0690-7
+1414,Jorge Antonio ,Franco,Fraire,FAFJ700630HCLRRR09,32-91-70-6151-0
+1453,Jose Ramon ,Santiago ,Corona,SACR820319HTSNRM01,09-98-82-4738-4
+1455,Rosalia Fabiola ,Tiro,Bravo,TIBR831123MMCRRS06,94-08-83-1083-7
+1460,Raul ,Uñate,Franco,UAFR791217HCLTRL09,32-08-79-0347-5
+1463,Rocio,Vargas,Garcia,VAGR830920MVZRRC04,09-02-83-0050-8
+1482,Julio Enrique ,Martinez,Medina,MAMJ770723HTSRDL09,09-08-77-0567-0
+1495,Elizabeth Georgina ,Ayala ,Ramirez,AARE730130MDFYML01,07-89-73-0457-7
+1501,Ignacio ,Salinas ,Enriquez,SAEI880412HOCLNG08,42-04-88-0097-5
+1513,Abraham ,Olvera ,Perez,OEPA670316HHGLRB03,67-85-67-5170-5
+1514,Marcos,Garcia,Cruz,GACM810831HDFRRR05,90-06-81-0661-7
+1516,Guillermo De Jesus ,Espejo ,Moreno ,EEMG630920HVZSRL00,64-84-63-1664-0
+1537,Luis Alberto ,Aguirre,Rios,AURL900709HNLGSS00,43-08-90-7301-9
+1549,Christopher Xavier ,Cirilo,Vasquez,CIVC890225HVZRSH07,67-09-89-0875-8
+1553,Elizabeth Leticia,Guzman,Martinez,GUME810613MDFZRL03,37-01-81-1189-0
+1556,Mario ,Laines,Garcia,LAGM561222HTCNRR07,67-79-59-0637-8
+1566,Leonardo ,Duarte,Flores,DUFL741106HSRRLN07,24-91-74-3913-5
+1594,Mauro ,Moreno,Novoa,MONM881219HSRRVR01,24-07-88-0096-8
+1600,Maria Jose,Martinez,Segovia,MASJ720419MPLRGS01,62-92-72-7342-5
+1615,Uriel,Barrientos,Maldonado,BAMU810805HMCRLR07,40-97-81-4440-6
+1616,Erick Francisco ,Jasso,Guerra,JAGE821210HTSSRR09,09-02-82-1701-7
+1620,Julio Manuel,Guerrero,Gonzalez,GUGJ720928HTSRNL04,09-89-72-0794-1
+1628,Jose Francisco ,Barajas,Garcia,BAGF860220HDFRRR06,20-09-86-0775-5
+1632,Jesus Alejandro ,Rios,Liñan,RILJ740921HDFSNS06,39-92-74-9380-7
+1646,Claudia Guadalupe ,Bonilla,Garduño,BOGC700721MPLNRL11,62-88-70-5217-3
+1660,Gilberto ,Leon,Cruz,LECG840207HDFNRL06,45-01-84-0722-6
+1669,Francisco Gerardo ,Jimenez ,Gonzalez,JIGF780210HCHMNR09,43-01-78-0548-2
+1679,Eder ,Salmeron,Gonzalez,SAGE830103HDFLND00,96-08-83-0654-1
+1683,Karla Ivonne ,Rivera,Hernandez,RIHK790714MMCVRR02,42-02-79-0844-3
+1686,Marisol ,Perez,Garcia,PEGM820519MDFRRR19,07-03-82-0560-0
+1720,Cecilia,Simon ,Cruz,SICC701122MHGMRC02,28-88-70-2181-5
+1742,Mario ,Lopez,Quintanar,LOQM680119HDFPNR02,17-86-68-0109-9
+1743,Rosa Isela ,Marquez,Monroy,MAMR820519MDFRNS02,96-03-82-2058-6
+1754,Genoveva ,Godinez,Marquez,GOMG750103MDFDRN01,28-92-75-0127-1
+1759,Juan Francisco ,Valdes,Velazquez,VAVJ750317HDFLLN03,30-04-75-0401-1
+1765,Luis Alberto ,Martinez,Calderon,MACL881122HDFRLS02,28-08-88-0701-2
+1769,Carlos Eduardo ,Miranda ,Guzman ,MIGC840208HDFRZR09,92-03-84-3176-0
+1772,Roberto ,Fernandez,Enriquez,FEER820703HDFRNB04,20-02-82-1107-4
+1778,Jose Luis ,Ramirez,Martinez,RAML710415HDFMRS03,45-00-71-0544-3
+1790,Luis Antonio ,Covarrubias,Gonzalez,COGL711122HDFVNS00,39-94-71-0739-5
+1793,Rodolfo ,Gallardo,Castañon,GACR670212HZSLSD03,11-89-67-0458-9
+1806,Victor Manuel ,Rodriguez,Leon,ROLV860803HVZDNC01,43-05-86-1443-9
+1808,Irma,Bravo,Cano,BACI651218MDFRNR02,30-92-65-1176-4
+1810,Noe ,Garcia,Martinez,GAMN840315HDFRRX10,07-03-84-0690-1
+1812,Alma Rosa ,Calva,Flores,CAFA820523MDFLLL05,92-99-82-0987-5
+1818,Jonathan Ivan ,Marquez,Carrillo,MACJ830204HDFRRN00,11-01-83-2760-8
+1824,Luis Andres ,Vazquez,Rodriguez,VARL820104HDFZDS00,20-07-82-0005-0
+1827,Ivan ,Zaragoza,Moran,ZAMI750822HDFRRV06,01-98-75-0224-0
+1828,Israel Antonio ,Chavez,Perez,CAPI830909HDFHRS06,07-97-83-0081-7
+1830,Jose Eduardo ,Ortega,Meza,OEME871018HDFRZD03,90-05-87-4044-1
+1834,Jorge Ramon ,Solis,Reynoso,SORJ821027HDFLYR01,11-05-82-1312-2
+1845,Alejandra ,Rodriguez,Castro,ROCA801123MDFDSL06,90-07-80-0496-8
+1846,Ricardo Mauricio ,Muciño ,Rodriguez ,MURR830406HDFCDC05,30-99-83-0554-1
+1847,Beatriz,Perez,Vela ,PEVB760718MDFRLT01,11-93-76-0688-4
+1849,Leonel ,Torres,Martinez,TOML901103HTSRRN01,09-09-90-6069-2
+1855,Alfredo ,Cedillo,Rodriguez,CERA650909HDFDDL02,11-89-65-1804-7
+1885,Saul,Ponce,Soriano,POSS810623HBCNRL05,21-01-81-4117-2
+1920,Fernando ,Rodriguez,Gonzalez,ROGF841105HDFDNR00,20-06-84-0841-6
+1932,Miguel Angel ,Martinez,Suarez,MASM700520HDFRRG00,39-91-70-4677-1
+1951,Roberto ,Gaspariaño,Larino,GALR750917HTLSRB09,39-97-75-0725-8
+1962,Jose ,Suarez,Cañal,SUCJ710512HDFRLS00,07-98-71-0111-5
+1965,Oscar ,Perez,Varela,PEVO891107HDFRRS06,20-10-89-1362-3
+1970,Guilibaldo ,Garcia,Perez,GAPG660707HTLRRL07,30-86-66-0124-5
+1974,Ana Lilia ,Jimenez ,Fonseca,JIFA730124MDFMNN00,11-91-73-3547-0
+1975,Irma Leticia ,Villareal,Almanza,VIAI490913MGTLLR08,33-71-49-0754-1
+1976,Maria Nayeli ,Mateo,Vera,MAVN791113MMCTRY03,92-97-79-4427-8
+1980,Alberto,Mendiola,Mendez,MEMA741203HMCNNL01,39-95-74-0783-4
+1988,Ulises ,Hernandez,Rodriguez,HERU841014HMCRDL04,94-08-84-0267-5
+1990,Jose Cristhian,Soto,Mote,SOMC811206HDFTTR07,45-01-81-3135-4
+1991,Luis Ernesto,Barron,Chavez,BACL841016HDFRHS03,01-00-84-0401-2
+1998,Miguel Angel ,Perez,Jonguitud,PEJM840629HMCRNG07,92-04-84-1913-6
+2006,Corina De Alicia,Gonzalez ,Castañeda,GOCC870521MNTNSR06,43-11-87-2192-7
+2011,Alejandra,Garcia,Zaragoza,GAZA770210MMCRRL08,90-06-77-0352-1
+2018,Sergio Arturo ,Sanchez,Atriano,SAAS850427HDGNTR15,09-08-85-1693-6
+2023,Jose Luis ,Navarro,Maldonado,NAML861015HDFVLS04,94-04-86-3795-6
+2024,Edgar Eduardo,Acosta,Fuentes,AOFE840414HDFCND03,01-08-84-0684-6
+2027,Leonardo ,Cuellar,Chala,CUCL750115HNELHN08,83-10-75-0054-4
+2028,Silvia,Olmos ,Luna,OOLS670602MDFLNL08,96-90-67-0024-8
+2036,Carolina ,Suazo,Guadarrama,SUGC870812MDFZDR03,45-06-87-4602-8
+2041,Veronica ,Martinez,Ramirez,MARV710217MDFRMR01,94-91-71-1897-1
+2045,Carlos ,Rodriguez,Esparza,ROEC830202HTSDSR01,09-99-83-4770-3
+2056,Guadalupe Ines ,Briseño,Martinez,BIMG880412MMCRRD03,94-11-88-2992-1
+2057,Sofia,Ocaña,Villegas,OAVS860825MTCCLF03,92-08-86-1852-2
+2069,Yessica Deyanira ,Galvan,Bastard,GABY750730MDFLSS06,39-91-75-2805-9
+2075,Martha Yadira ,Ludlow,Trejo,LUTM840510MHGDRR04,11-03-84-0618-4
+2079,Praxedis ,Guillen,Rodriguez,GURP740721HTSLDR00,49-91-74-4139-3
+2084,Mario Alberto ,Rodriguez,Aguirre,ROAM701219HDFDGR08,42-91-70-0099-6
+2097,Jose Carlos ,Sanchez,Rojas,SARC840103HPLNJR09,48-07-84-2305-9
+2118,Jesus Antonio ,Elorza,Valdez,EOVJ630821HVZLLS04,83-93-63-0200-5
+2122,Rosalba ,Caballero,Cruz,CACR730706MDFBRS03,20-95-73-2011-0
+2131,Christopher ,Ramirez,Carreto,RACC851120HDFMRH04,37-09-85-0726-4
+2141,Luis Angel ,Arroyo,Cuevas,AOCL850706HZSRVS03,12-12-85-0651-1
+2160,Angela Carolina ,Matheus,Teran,MATA750721MNETRN03,92-10-75-0169-1
+2164,Miguel Angel ,Salinas ,Calzada,SACM760629HDFLLG09,11-99-76-0554-5
+2165,Christian Patricio ,Guzman,Marquez,GUMC840123HDFZRH01,30-03-84-2066-4
+2170,Luis Alberto,Gonzalez ,Mendoza,GOML590622HNLNNS02,43-81-59-2381-8
+2173,Esteban Mario ,Estrada,Fabre,EAFE880531HMCSBS00,90-06-88-1578-7
+2180,Jose Antonio ,Cantillo,Zacarias,CAZA890302HMCNCN04,01-11-89-0322-6
+2182,Marivi,Mabridis,Gutierrez,MAGM910724MDFBTR00,94-12-91-3285-1
+2187,Carlos Eduardo ,Trujillo ,Subias,TUSC861116HDFRBR07,42-12-86-0339-8
+2197,Guadalupe ,Lopez,Contreras,LOCG900920MDFPND02,01-09-90-2879-5
+2209,Victor Hugo ,Munguia,Garcia,MUGV620723HDFNRC07,01-85-62-0250-0
+2211,Miguel Angel ,Hurtado,Jimenez,HUJM810626HDFRMG05,11-07-81-0240-4
+2215,Veronica ,Ceron,Nieto,CENV890218MMCRTR09,94-12-89-2545-3
+2219,Erick ,Hernandez,Cuautle,HECE880203HDFRTR08,94-12-88-0904-6
+2220,Gilberto ,Dominguez,Perez,DOPG881102HVZMRL07,67-12-88-1332-5
+2223,Guillermo Gabriel,Rangel,Flores,RAFG720917HDFNLL01,37-96-72-0080-1
+2225,Arturo ,Navarro,Mosco,NAMA761116HDFVSR04,42-91-74-1961-8
+2226,Alberto ,Estrada,Cruz,EACA820827HDFSRL00,68-97-82-8170-4
+2229,Rosa Irma ,Alejandro,Lopez,AELR660830MTCLPS02,83-82-66-1381-8
+2232,Alejandro ,Delgado,Soto,DESA621020HDFLTL07,01-85-62-0683-2
+2237,Jose Antonio ,Frias,Rojas,FIRA900528HMCRJN06,92-12-90-0154-8
+2240,Virginia ,Licona,Andrade,LIAV811228MTCCNR01,83-96-81-3205-6
+2246,Joanna Elizabeth ,Roa,Zamora,ROZJ871209MGTXMN07,12-13-87-0358-7
+2247,Ali Sinuhe ,Martinez,Jimenez,MAJA910224HDFRML05,96-13-91-0533-0
+2248,Karen ,Robles,Estrada,ROEK900910MMCBSR05,90-13-90-0329-8
+2249,David Antonio ,Falcon,Perez,FAPD880609HTCLRV05,83-13-88-0054-1
+2251,Alejandro De Jesus ,Lopez,Lopez,LOLA890303HCSPPL01,65-13-89-0702-0
+2254,Senen ,Barradas,Jauregui,BAJS891112HVZRRN06,67-08-89-5511-6
+2258,Berenice ,Avendaño,Morales,AEMB850711MDFVRR09,01-12-85-0400-6
+2259,Manuel Augusto ,Toledo ,Arias,TOAM900204HVZLRN09,67-13-90-0803-0
+2263,Ernesto ,Ortuño,Martinez,OUME900102HMNRRR02,53-03-90-0007-9
+2264,Jose Luis,Gomez,Villegas,GOVL900708HDFMLS07,11-13-90-0196-7
+2265,Irving Alain ,Canul ,Toledo ,CATI900705HVZNLR07,67-09-90-2272-4
+2266,Anahi ,Borja,Yañez,BOYA891123MDFRZN06,94-13-89-0566-9
+2278,Raul,Reyes,De La Rosa,RERR760425HTSYSL01,09-95-76-0825-1
+2279,Julissa ,Jimenez ,Mejia,JIMJ880514MDFMJL02,42-13-88-0181-8
+2283,Kasandra,Mendoza,Rascon,MERK931203MSRNSS07,24-13-93-0158-4
+2289,Leonel,Gomez,Osuna,GOOL760715HSRMSN02,24-93-76-1364-4
+2292,Ricardo Ivan,Ayala ,Rios,AARR850621HMCYSC01,39-04-85-1778-1
+2304,Rene ,Martinez,Bernal,MABR591226HDFRRN05,75-84-59-0519-1
+2320,Leonardo ,Herrada,Carrillo,HECL840530HTSRRN09,09-05-84-4503-3
+2321,Edgar,Garcia,Guzman,GAGE830512HMCRZD07,13-02-83-2237-1
+2324,Jose Guadalupe,De La Cruz ,Renteria,CURG830913HTSRND01,49-97-83-0070-2
+2329,Urias,Gomez,Campero,GOCU871009HCSMMR08,45-07-87-4586-1
+2331,Luz Del Carmen ,Juarez,Perez,JUPL861227MVZRRZ07,67-12-86-0361-9
+2334,Irving De Jesus ,Díaz ,Laborde,DILI910627HVZZBR02,65-13-91-1904-7
+2335,Blanca Estela ,Hernandez,Lopez,HELB780715MMCRPL02,94-00-78-1070-1
+2341,Juan Daniel ,Briones ,Reyes ,BIRJ931227HNLRYN09,43-10-93-8246-5
+2344,Juan Carlos ,Magaña,Cortez,MACJ790317HDFGRN08,01-01-79-0302-0
+2346,Jorge Arturo ,Sanchez,Rivas,SARJ890829HTCNVR02,83-13-89-1354-2
+2347,Areli ,Sanchez ,Torres ,SATA910803MMCNRR01,94-10-91-9995-3
+2351,Manuel Alejandro ,Brito,De La Rosa,BIRM810324HDFRSN02,45-04-81-0893-5
+2361,Gregorio ,Vazquez,Sanchez,VASG720312HPLZNR01,68-90-72-2504-6
+2363,Jose Luis,Govea,Alvarez,GOAL840202HTCVLS09,83-10-84-0852-3
+2364,Rocio Amelia ,Romero,Mejia,ROMR780714MDFMJC05,01-98-78-1235-9
+2365,Carolina ,Galvan,Baldovino,GABC781121MMCLLR07,20-97-78-2862-1
+2377,Armando ,Miranda,López,MILA900310HMCRPR03,96-08-90-8080-6
+2383,Juan Jose ,Verduzco,Velazquez,VEVJ780222HDFRLN07,92-01-78-0060-5
+2385,Yorhank ,De La Cruz ,Salinas,CUSY870606HMCRLR05,83-12-87-0626-0
+2390,Salvador ,Calderon,Villaseñor,CAVS940325HDFLLL02,20-12-94-1182-1
+2391,Jorge Alfonso ,Velazquez,Guillen,VEGJ890223HVZLLR08,67-08-89-2413-8
+2394,Irma ,Ruiz,Sanchez,RUSI910212MDFZNR03,01-13-91-0960-5
+2410,Jessica Belem ,Bonilla,Estudillo,BOEJ870628MVZNSS03,67-06-87-1553-0
+2417,Diana Berenice,Martinez,Rodriguez,MARD801017MDFRDN06,96-05-80-1085-9
+2418,German Esteban ,Reyes,Dzib,REDG580528HCCYZR04,67-86-58-5197-5
+2422,Maria Del Carmen Elvira,Ortiz,Gutierrez,OIGC721009MDFRTR00,39-92-72-2726-2
+2424,Maria De Los Angeles ,Melendez,Jimenez,MEJA921225MTSLMN09,09-13-92-4463-7
+2428,Maria Angelica ,Romo,Ochoa,ROOA910406MDFMCN00,45-14-91-0032-8
+2435,Nayeli ,Arroyo,Jacome,AOJN890916MVZRCY05,67-09-89-1516-7
+2436,Zoraida ,Cedillo,Atzin,CEAZ840627MVZDTR08,65-08-84-1787-1
+2447,Omar Adrian ,Rodriguez,Gonzalez,ROGO860312HTSDNM06,09-04-86-4400-0
+2452,Andres Leonardo ,Montes,Cordoba,MOCA900808HDFNRN08,20-10-90-1223-5
+2459,Alberto ,Lepe,Langarica,LELA630830HCMPNL00,52-79-63-0280-1
+2460,Ana Erika ,Martinez,Prieto,MAPA880624MVZRRN03,65-06-88-3998-7
+2462,Roberto ,Garcia,Ballado,GABR920816HVZRLB09,65-10-92-5103-6
+2467,Claudia Ivet ,Salvador ,Rivera ,SARC861118MTCLVL01,83-12-86-0352-5
+2469,Joel ,Vega,Fernandez,VEFJ880917HDFGRL01,94-11-88-1865-0
+2470,Judith Raquel ,Jimenez ,Corona,JICJ901225MDFMRD02,03-14-90-5848-3
+2473,Jazmin ,Rincon,Cervantes,RICJ901102MDFNRZ04,92-07-90-1663-7
+2482,Emerson Fernando ,Gutierrez ,Ramirez ,GURE800131HDFTMM04,07-00-80-1826-4
+2489,Miguel Angel ,Rios,Castro,RICM920503HGRSSG09,26-14-92-5593-2
+2494,Marisol Aurora,Guillen,Gomez,GUGM851215MTCLMR08,83-10-85-0260-6
+2497,Juan Carlos ,Urbina,Pegueros,UIPJ880909HDFRGN09,37-07-88-1375-7
+2498,Maria Martina ,Nava,Chiquito,NACM690119MGTVHR01,12-06-69-0317-5
+2500,Oderay ,Gonzalez ,Gabriel,GOGO900815MDFNBD02,26-14-90-8848-1
+2501,Ernesto Alonso ,Lopez,Chavez,LOCE850718HSRPHR00,24-02-85-0429-8
+2502,Oscar Ariel ,Parra,Castro,PACO881016HSRRSS03,24-13-88-1647-5
+2504,Efrain ,Gil,Romero,GIRE640711HDGLMF06,23-91-64-0829-9
+2520,Angel Manuel ,Aguila,Hernandez,AUHA850927HTCGRN03,83-06-85-1281-9
+2521,Celestino ,Jimenez ,Jimenez,JIJC580521HOCMML06,11-75-58-6173-6
+2522,Jose ,Hernandez,Vega,HEVJ720421HDFRGS04,39-90-72-3299-3
+2525,Jorge Enrique ,Galicia,Hernandez,GAHJ720728HVZLRR05,65-93-72-5430-1
+2526,Alan Mauricio ,Melo,Carrizales,MECA891212HTSLRL03,09-07-89-4595-4
+2529,Nayeli ,Araus,Cordova,AACN850516MVZRRY04,65-06-85-3182-4
+2540,Isidro Rolando ,Lira,Araujo,LIAI950122HGTRRS09,12-13-95-9722-8
+2541,Rodrigo Gabriel,Adam,Roldan,AARR760222HDFDLD01,37-91-75-0993-9
+2543,Silvia ,Baizabal,Morales,BAMS701231MVZZRL03,67-90-70-5047-9
+2545,Jose Praxedis ,Martinez,Lopez,MALP800507HCLRPR04,32-00-80-1744-7
+2548,Ana Araceli,Garcia,Trejo,GATX891217MMCRRN03,92-09-89-3206-1
+2549,Gregory ,Arcos,Castorena,AOCG860816HGRRSR05,92-09-86-0924-8
+2550,Ana Miriam ,Luna,Perez,LUPA920417MDFNRN07,94-10-92-8886-3
+2554,Elizabeth ,Dominguez,Martinez,DOME890927MVZMRL07,67-12-89-0843-0
+2557,Rudolf Alfred,Aleman,Hots,AEHR890827HTSLTD06,09-07-89-3955-1
+2559,Mayra,Narez,Cornelio,NACM790115MTCRRY08,03-14-79-3033-7
+2562,Zuleyma,Cruz,Villalba,CUVZ920520MTCRLL03,08-14-92-8032-6
+2564,Jesus Alberto,De Los Santos,Hernandez,SAHJ910607HVZNRS11,65-11-91-5542-5
+2567,Daniel,Lopez,Hilario,LOHD900822HTCPLN15,83-09-90-4551-6
+2568,Roberto Alonso,Lopez,Gonzalez,LOGR880727HCHPNB08,33-07-88-4644-2
+2570,Maria Del Consuelo,Moreno,Zarco,MOZC890525MDFRRN06,96-11-89-4204-2
+2571,Wendy Anahi,Galves,Benitez,GABW920820MDFLNN08,96-11-92-7517-8
+2572,Edgar Julian,Lopez,Gutierrez,LOGE921117HTSPTD04,17-14-92-7295-1
+2579,Yareli,Nava,Vega,NAVY920921MMCVGR09,18-14-92-2892-8
+2582,Vicente,Rubalcava,Gonzalez,RUGV840228HDFBNC05,94-05-84-3242-1
+2586,Raul Alejandro,Castillon,Rodriguez,CARR890622HDFSDL06,19-40-88-9098-6
+2588,Augusto Benjamin,Martinez De Aguilar,Martinez,MAMA590907HDFRRG06,37-92-59-0159-9
+2591,Mauricio Xavier,Barajas,Saldivar,BASM810507HDFRLR00,30-01-81-0125-0
+2594,Carlos Alberto,Reyes,Carrillo,RECC841120HNLYRR05,19-14-84-0501-2
+2598,Martin de Jesus,Torres,Perez,TOPM890614HTSRRR02,49-07-89-1148-1
+2600,Hector Gabriel,Lopez,Zamilpa,LOZH880307HVZPMC04,67-13-88-0970-1
+2601,Carlos Humberto,Canche,Sanchez,CASC680829HVZNNR06,67-90-68-5194-3
+2602,Elmer Daniel,Santos,Estrada,SAEE890125HVZNSL09,67-07-89-0262-3
+2609,Jose Antonio,Valenzuela,Landeros,VALA831204HDFLNN04,07-06-83-0103-0
+2614,Julio Cesar,Gonzalez,Martinez,GOMJ850420HVZNRL03,67-03-85-3316-1
+2615,Maria Elena,Ibarra,Mateos,IAME731017MPLBTL00,62-96-73-6009-0
+2616,Moises,Codemo,Alvarez,COAM871118HMNDLS07,53-05-87-0589-7
+2620,Luis Armando,Sotelo,Hernandez,SOHL810701HGTTRS08,12-98-81-9432-5
+2622,Pedro,Lopez,De la Cruz,LOCP890515HOCPRD02,67-12-89-0880-2
+2624,Carlos,Ruiz,Gonzalez,RUGC861104HDFZNR01,37-12-86-0311-7
+2626,Andres,Mejia,Ventura,MEVA831120HDFJNN07,45-08-83-1072-2
+2627,Gonzalo,Matias,Arevalo,ARGO780511HNERXN06,04-05-78-0843-0
+2628,Joel,Pichardo,Davalos,PIDJ920806HMCCVL06,20-10-92-3099-3
+2629,Humberto,Garcia,Tellez,GATH730326HPLRLM09,42-91-73-1694-7
+2635,Maria Brijida,Navarrete,Javalera,NAJB800723MCHVVR07,24-98-80-7437-3
+2637,Pedro Gabriel,Jauregui,Roan,JARP891120HVZRND01,09-07-89-4343-9
+2642,Adrian,Corona,Cortez,COCA640213HDFRRD04,17-83-64-2857-7
+2643,Monica,Mendoza,Maldonado,MEMM910627MMCNLN06,96-11-91-6709-4
+2644,Carlos Alberto,Padilla,Ruiz,PARC881027HMCDZR08,37-08-88-1594-1
+2645,Maibritt Yancuic,Flores Ibarra,Granados,FOGM800120MDFLRB09,07-01-80-0390-0
+2646,Mariana Fabiola,Curiel,Gonzalez,CUGM840412MJCRNR08,22-08-84-0604-0
+2647,Jose Antonio,Rodriguez,Ramos,RORA650930HDFDMN06,63-83-65-0685-5
+2648,Joaquin,Martinez,Gomez,MAGJ910123HVZRMQ01,67-10-91-3140-8
+2650,Julio Cesar,Chavarria,Hernandez,CAHJ771116HDFHRL04,92-01-77-0795-8
+2651,Leticia,Tellez,Torres,TETL771031MMCLRT08,45-96-77-2991-9
+2654,Librado Francisco,Bravo,Cruz,BACL910115HMCRRB03,96-12-91-3124-7
+2656,Pedro,Xolo,Toto,XOTP910627HVZLTD04,19-14-91-0790-6
+2657,Sergio,Matus,Delgado,MASS861201HDFTLR08,92-07-86-1405-1
+2659,Hector,Lopez,Hernandez,LOHH650919HDFPRC06,64-85-65-3412-4
+2662,Christian Tzamn,Gomez,Gomez,GOGC810604HDFMMH08,37-05-81-0132
+2669,Jose De Jesus,Muñoz,Andrade,MUAJ940220HCMXNS01,52-12-94-0817-6
+2670,Carlos Antonio,Guevara,Cruz,CUGC860501HVZRVR09,67-07-86-3195-8
+2671,Juan,Cagal,Bautista,CABJ881212HVZGTN00,67-05-88-1430-1
+2672,Brayan Yair,Nouche,Gonzalez,NOGB900806HVZCNR00,67-12-90-1359-4
+2674,Raul Jose,Rodriguez,Ramirez,RORR900309HMCDML05,92-09-90-2534-5
+2677,Gabriel,Galvan,Garcia,GAGG900410HCMLRB00,52-06-90-0453-0
+2679,Reyna Esmeralda,Osorio,Alcocer,OOAR890422MOCSLY07,78-09-89-1696-4
+2680,Alejandra,Luna ,Escobar,LUEA900322MDFNSL03,07-14-90-0036-1
+2682,Brenda Guadalupe,Cruz,Celis,CUCB900224MDFRLR06,08-14-90-3768-4
+2683,Octavio Humberto,Garcia,Lara,GALO800325HDFRRC02,39-99-80-0780-9
+2684,Claudia Itzel,Torres,Hurtado,TOHC860211MDFRRL00,30-05-86-0812-3
+2687,Alejandro,Luna ,Aguilar,LUAA860901HHGNGL04,01-05-86-2538-3
+2690,Juan Pablo,Valdez,Rodriguez,VARJ890208HCMLDN00,52-04-89-0166-5
+2697,Abraham,Trujillo,Martinez,TUMA901017HDFFRRB0,90-09-90-2390-6
+2698,Alejandro,Lopez,Flores,LOFA890703HDFPLL00,94-05-89-0756-2
+2704,Israel,Flores,Sanchez,FOSI820201HMCLNS06,92-04-82-0781-2
+2706,Ricardo,Luna,Martinez,LUMR710906HDFNRC09,45-93-71-0581-0
+2708,Omar Alejandro,Aquino,Hernandez,AUHO890115HVZQRM02,67-13-89-1646-4
+2716,Oscar,Ventura,Gutierrez,VEGO910412HTLNTS00,19-14-91-2139-4
+2717,Eduardo,Rodriguez,Mendez,ROME900821HVZDND04,06-15-90-9215-3
+2718,Bulmaro,Cruz,Martinez,CUMB820225HVZRRL04,67-98-82-1414-3
+2729,Miriam Griselda,Flores,Oviedo,FOOM911017MMCLVR02,10-15-91-0850-4
+2730,Martin Alexis,Corona,Salazar,COSM900708HDFRLR05,96-09-90-3731-7
+2731,Inocencio,Alarcon,Cortes,AACI721102HVZLRN19,67-90-72-5013-7
+2732,Hector Luis,Torres,Dominguez,TODH810118HVZRMC04,81-05-81-0100-7
+2733,Josue,Romero,Torres,ROTJ880618HVZMRS07,67-09-88-1459-2
+2734,Luis Mahonry,Ponce,Vicente,POVL940623HTSNCS09,08-15-94-2344-4
+2736,Karla Aida,Gomez,Rodriguez,GORK920623MVZMDR02,65-10-92-8039-9
+2737,Ricardo Gerardo,Rocher,Rivas,RORR930512HVZCVC05,17-15-93-6889-7
+2741,Juan Pablo,Gonzalez,Zimbrón,GOZJ910505HDFNMN08,17-15-91-3020-6
+2742,Gabriel,Torres,Lopez,TOLG860606HZVRPB06,67-08-86-1662-7
+2743,Sandra,Godoy,Lopez,GOLS901202MMCDON08,92-08-90-7943-5
+2744,Carlos Eduardo,Perez,Jasso,PEJE911219HDFRSR09,45-10-91-7459-4
+2745,Manuel,Borjas,Holguin,BOHM840920HPLRLN05,40-03-84-3533-4
+2747,Hilda Cipactli,Arellano,Galindo,AEGH730421MMCRLL02,43-92-73-7833-1
+2748,Cesar,Rangel,Vera,RAVC760922HCCNRS05,65-94-76-4010-1
+2749,Jonathan,Gonzalez,Valdes,GOVJ920407HDFNLN06,03-15-92-9774-0
+2750,Alan Gabriel,Soberanes,Guerra,SOGA880812HDFBRL09,01-07-88-1288-8
+2751,Jose Ismael,Estrada,Barbosa,EABI651017HDFSRS07,30-88-65-1444-4
+2752,Magda Adriana,Morales,Saldaña,MOSM941216MTSRLG07,26-15-94-2617-5
+2753,Montserrat,Marino,Campos,MACM890407MGRRMN03,12-12-89-0123-3
+2757,Angel,Alfaro,Medina,AAMA911024HHGLDN04,13-08-91-1941-9
+2760,Mayra,Venegas,Diaz,VEDM931001MMCNZY06,20-11-93-6048-3
+2761,Karla Berenice,Vega,Garcia,VEGK870104MSRGRR07,24-07-87-2681-7
+2769,Vicente,Garcia,Mendez,GAMV740502HJCRNC08,12-02-74-0397-6
+2771,Ricardo,Salazar,Robles,SARR880207HOCLBC01,01-11-88-1192-4
+2772,Marisela Guadalupe,Alonso,Venegas,AOVM851007MSPLNR05,09-04-85-7918-0
+2773,Tania Izaleth,Hernandez,Cespedes,HECT930306MDFRSN00,94-11-93-8540-2
+2774,Jorge Eduardo,Aguilar,Alvarez,AUAJ670820HDFGLR00,45-90-67-2611-7
+2776,Jose Ruben,Diaz,Clemente,DICR920615HTSZLB08,25-15-92-9487-2
+2777,Diego Armando,Peña,Hurtado,PEHD881004HDFXRG06,07-07-88-1319-8
+2778,Ivan,Vazquez,Reyna,VARI950116HBCZYV09,50-14-95-3221-5
+2780,Omar,Barrios,Dominguez,BADO791022HDFRMM03,68-95-79-2151-0
+2783,Ana Karen,Mora,Rivero,MORA911230MDFRVN04,94-10-91-9473-1
+2787,Guadalupe Del Carmen,Rodriguez,Diaz,RODG930809MDFZD04,93-11-93-0256-5
+2788,Gisela,Castro,Calzada,CACG-860522-MDFSLS,94-03-86-0957-7
+2789,Pablo Angel,Lozano Najera,Sanchez,LOSP880628HGTZNB06,08-15-88-4862-5
+2790,Jocelyn,Simon,Salvador,SISJ900714MMCMLC02,02-15-90-5602-3
+2791,Karla Daniela,Tejeda,Espinosa,TEEK890624MDFJSR05,27-14-89-8362-3
+2793,Jose Ricardo,Guijosa,Vargas,GUVR850920HMCJRC02,45-09-85-1253-1
+2794,Cesar,Alfaro,Ochoa,AAOC870212HMCLCS05,20-12-87-0024-0
+2795,Nayeli,Lopez,Martinez,LOMN851219MVZPRY05,21-07-85-2017-4
+2796,Heriberto,Romero,Rivera,RORH910604HCLMVR09,09-10-91-2233-4
+2797,Joel,Ramos,Aguilar,RAAJ821214HDFMGL09,68-97-82-3233-5
+2798,Pamela,Avendaño,Alvarado,AEAP900829MMCVLM05,11-08-90-1075-2
+2799,Nancy Vianey,Gomez,Rosal ,GORN900122MDFMSN07,19-14-90-1446-6
+2802,ALEXIS,Miranda,Iriarte,MIIA900223HMCRRL08,28-13-90-0694-5
+2803,MIGUEL ANGEL,Castro,Garcia,CAGM801107HDFSRG08,45-99-80-0876-2
+2804,SANDRA MARLEN,Arciga,Torres,AITS920824MMCRRN00,94-11-92-9805-0
+2808,NOE ADAN,Morales,Arizpe,MOAN730908HDFRRX05,01-91-73-6377-0
+2810,LUIS FERNANDO,Rodriguez,Martinez,ROML860320HNLDRS04,43-06-86-4017-6
+2821,Rodrigo Adrian,Martinez,Bañales,MABR810803HGTRXD05,12-09-81-1099-7
+2823,Luz Ivan,Zuñiga,Gonzalez,ZUGL920328HGTXNZ09,26-15-92-6627-4
+2824,Rafael Ignacio,Carrillo,De Luna,CALR891009HVZRNF03,67-09-89-0568-9
+2827,Danae Gustavo,Hernandez,Ordoñez,HEOD760129HDFRRN05,16-99-76-0898-5
+2829,Cecilia,De Leon,Escobedo,LEEC841228MNENSC02,48-05-84-2188-3
+2830,Jose Guillermo,Ahumada,Lerma,AULG940525HNLHRL06,43-11-94-3745-7
+2832,Carlos Alfredo,Aguirre,Gonzalez,AUGC930314HDFGNR00,26-14-93-7474-1
+2837,Berenice,Chavez,Florencio,CAFB880322MDFHLR02,94-13-88-0920-0
+2838,Fabian,Santiago,Antonio,SAAF870104HOCNNB00,45-13-87-0033-6
+2839,Sergio Cristobal,Alvarez,Villaseñor,AA871107HMNLLR03,53-05-87-2526-7
+2840,Manuel ,Peña ,Caballero,PECM910326HMCXBN01,16-12-91-2173-3
+2841,Maria Isabel ,Sanchez ,Vargas,SAVI640124MDFNRS02,06-86-64-0695-9
+2842,Karla ,Diaz ,Mireles,DIMK780320MPLZRR03,48-00-78-1816-3
+2846,Josue Isai ,Sanchez,Hernandez,SAHJ901219HVZNRS00,67-09-90-3541-1
+2853,Areli Viridiana ,Hernandez,Gonzalez,HEGA830225MMCRNR04,30-04-83-0242-3
+2854,Bernardo ,Garcia,Soriano,GASB930324HDFRRR06,94-11-93-8449-6
+2855,Carolina ,Ahumada,Espinosa,AUEC941130MDFHSR06,10-16-94-7224-7
+2858,Ivan ,Sanchez,Zaragoza,SAZI730630HCMNRV04,52-00-73-0331-7
+2861,Jaime  ,Garcia,Santiago,GASJ951209HTSRNM09,09-12-95-0274-7
+2862,Olivia  ,Bandala,Reyes,BARO730913MDFNYL01,01-96-73-0973-1
+2866,Jose Manuel ,Curioca,Revuelta,CURM591224HDFRV-NO,11-77-59-8364-3
+2878,Fatima Mallela ,Priego,Martinez,PIMF861210MMCRRT01,37-09-86-0355-0
+2879,Montserrat ,Carbajal,Dominguez,CADM820616MDFMRN04,45-06-82-1897-8
+2880,Montserrat ,Duran ,Granada,DUGM920210MMCRRN06,02-15-92-8373-4
+2882,Luis Martin  ,Cardona,Valadez,CAVL900703HASRLS06,51-09-90-1350-3
+2884,Laura Mariana ,Sanchez,Hernandez,SAHL750129MDFNRR08,42-06-75-0045-6
+2885,Juan Arnulfo ,Rivera,Garcia,RIGJ921005HMNVRN01,20-10-92-3113-2
+2886,Deni Mahets´I ,Serrano,Flores,SEFD950911MHGRLN02,25-16-95-0173-8
+2888,Omar  ,Hernandez,Muñez,HENO861026HDFRXM08,94-10-86-1181-8
+2889,Joaquin Alberto  ,Velsco,Guzman,VEGJ860405HVZLZQ00,65-07-86-2807-3
+2890,Brenda Irais  ,Vazquez,Medina,VAMB910910MDFZDR06,01-10-91-2549-0
+2891,Marisol  ,Ortega,Colores,OECM891227MDFRLR09,01-12-89-1211-8
+2894,Oscar Hiram Lopez Zarate,Lopez,Zarate,LOZO880804HOCPRS04,09-04-88-0585-8
+2898,Lucia Liliana Hernandez Lopez,Hernandez,Lopez,HELL920731MGTRPC09,64-16-92-3827-2
+2899,Paulina  Torres  Calderon,Torres,Calderon,TOCP880603MGTRLL09,12-12-88-2596-0
+2901,Alan,Mayorga,Rueda,MARA940819HGRYDL03,18-16-94-9530-8
+2908,Eduardo Guadalupe,Beltran,Orduño,BEOE931028HSLLRD12,73-16-93-4606-8
+2911,Xochitl,Pavon,Gonzalez,PAGX871228MVZVNC03,67-11-87-1968-0
+2913,Omar Alejandro,Nañez,Santiago,NASO810803HVZXNM03,65-00-81-3743-5
+2914,Rosa Iris,Patlani,Cristobal,PACR840307MDFTRS04,30-08-84-0294-3
+2915,Christian,Leon,Sanchez,LESC891114HMCNNH02,94-12-89-0144-7
+2916,Isay Eduardo,Morales,Nicolas,MONI-900715-HDFRCS,03-15-90-0151-4
+2917,Jose Eduardo,De Anda,Lopez,AALE-930911-HDFNPD,18-16-93-5065-1
+2918,Jose Daniel  Treviño  Luis,Treviño,Luis,TELD940103HNLRSN07,43-13-94-0790-2
+2920,Nancy Estafani Bermudez Del Angel,Bermudez,Del Angel,BEAN-930128-MDFRN-,39-11-93-4684-7
+2922,Lorena Lizbeth  Salgado Hernandez,Salgado ,Hernandez,SAHL-821026-MDFLR-,01-06-82-0470-8
+2923,Erika Vianey Salas Romero,Salas,Romero,SARE841025MDFLMR05,39-01-84-1637-8
+2924,Anel Monserrat  Lara  Piña,Lara,Piña,LAPA930529MDFRXN03,46-11-93-0661-4
+2926,Karen Stephanie,Perez,Vazquez,PEVK930321MDFRZR00,96-10-93-2544-7
+2927,Cesar David ,Gonzalez,Montoya,GOMC-851222HDFNNS0,01-08-85-1089-4
+2928,Jose Carlos ,Parra,Moreno,PAMC-810418-HMCRR-,92-97-81-0137-3
+2929,Azucena ,Ortiz,Ladin,OILA901216MDFRNZ07,92-13-90-2175-9
+2931,Carlos Daniel ,Bautista,Guzman,BAGC910906HMCTZR04,92-10-91-8016-3
+2932,Areli Del Carmen  ,Orbe,Hernandez,OEHA821209MVRRR05,65-01-82-1434-9
+2933,Jaime ,Hernandez,Muñoz,HEMJ810817HPLRXM07,07-99-81-1810-8
+2935,Angelica ,Muñoz,Vazquez,MUVA-921117-MDFXZ-,18-16-92-8089-0
+2936,Alejandro  ,Moreno,Cadena,MOCA-600627-HVZRD-,65-82-60-4039-9
+2937,Nestor Alberto  ,Zea,Elizalde,ZEEN830331-HDFXL-S,20-01-83-0509-2
+2938,Sheila Valeria  ,Lopez,Moreno,LOMS-870725-MDFPR-,01-11-87-0062-2
+2939,Abril Pamela ,Cruz,Juarez,CUJA930824MMCRR-B0,94-11-93-9493-3
+2940,Guadalupe Berenice,Damian,Turcio,DATG-890302-MMCMR-,28-13-89-0253-2
+2942,Carlos,Canseco,Ronquillo,CARC-920505-HDFNN-,96-11-92-7722-4
+2943,Janet ,Garcia,Ortiz,GAOJ-900827-MMCRR-,18-14-90-2375-8
+2944,Virginia ,Hernandez,Rodriguez,HERV910131MVZRD-R0,38-14-91-7696-8
+2945,Alfredo Jose ,Jauregui,Hernandez,JAHA841020HVZRRL09,67-08-84-1602-8
+2946,Eduardo ,Sanmiguel,Vasquez,SAVE931115HTSNSD03,19-14-93-4583-7
+2947,Daniel ,Martinez,Prieto,MAPD-940717-HVZRRN,65-12-94-2896-0
+2948,Daniela Vanessa ,Villalobos,Vazquez,VIVD-920825-MVZLZ-,17-15-92-7933-4
+2949,Carlos Alfonso ,Galan,Suazo,GASC-900822-HMCLZ-,90-09-90-3053-9
+2951,Lorena ,Torres,Garcia,TOGL-930802-MDFRR-,42-11-93-4848-2
+2952,Ana Luisa ,Tejeda,Garcia,TEGA-920304-MVZJR-,16-16-92-2312-6
+2954,Maryana ,Nogal,Frayre,NOFM-860903-MDFGR-,09-02-86-0315-8
+2955,Laura Judith ,Cruz,Gutierrez,CUGL-910820-MDFRT-,27-14-91-3678-3
+2956,Valeria Emmanuelle,Morales,Manzanilla,MOMV-890706-MDFRN-,92-09-89-2094-2
+2957,Jorge Armando ,Espinoza,Martinez,EIMJ-960901-HCLSR-,32-13-96-4869-8
+2958,Brenda ,Gonzalez,Martinez,GOMB-930406-MDFNR-,01-11-93-1411-8
+2959,Roman ,Esquivel,Donjuan,EUDR-960809-HTSSN-,26-15-96-1595-9
+2960,Sandra Maria ,Alonso,Hernandez,AOHS-930718-MGTLR-,12-12-93-8734-1
+2962,Erick Yoesias ,Guadarrama,Sanchez,GUSE-911009-HDFDN-,92-08-91-0045-4
+2963,Erika Gabriela ,Sierra,Atanacio,SIAE-920319-MDFRT-,92-10-92-8415-5
+2964,Jesus Alberto ,Veliz,Esquivel,VEEJ-910925-HTSLS-,09-07-91-1071-5
+2965,Israel ,Gonzlez,Blanco,GOBI840331HVZNLS03,67-06-84-1306-0
+2966,Porfirio ,Roman ,Molina,ROMP-640915-HVZML-,67-84-64-5619-1
+2967,Beatriz,Ramirez,Lazaro,RALB-900928-MMCMZ-,90-06-90-1432-3
+2968,Raul,Montalvo,Lara,MOLR-730810-HMCNR-,39-97-73-1616-3
+2969,Olivia  ,Tellez,Marquez,TEMO-760720-MHGLR-,68-92-76-0564-9
+2970,Jorge Antonio ,Garcia,Reyes,GARJ-920124-HDFRY-,17-14-92-0260-2
+2971,Edson Artemio,Ruiz,Tino,RUTE-920828-HVZZN-,67-10-92-3154-7
+2972,Jose Angel ,Vazquez,Morales,VAMA-900509-HVZZR,67-12-90-2911-1
+2973,Alejandro Federico ,Muñoz ,Herrera,MUHA-800504-M47,11-02-80-0995-6
+2974,Erick ,Ordoñez,Covarrubias,OOCE-850506-HDFRV-,05-16-85-3303-1
+2975,Gabriel,Garcia,Goytia ,GAGG-920401-HDGRY-,31-11-92-5506-0
+2976,Manuel Alejandro ,Belmar ,Valadez ,BEVM-860215-HCHLL-,33-02-86-2125-9
+2977,Francisco Javier,Lopez,Luna ,LOLF-690215-HDFPN-,39-89-69-0701-9
+2978,Mario Alejandro,Hernandez,Rojas,HERM-931026-HDFRJ-,45-12-93-6516-4
+2979,Osvaldo,Cordero,Muciño ,COMO-931124-HDFRC-,42-03-93-0009-2
+2980,Erick Alejandro,Collado ,Solar,COSE-910720-HVZLL-,25-14-91-7953-0
+2981,Daniel,Peralta ,Santiago ,PESD-850820-HVZRN-,67-11-85-0247-4
+2982,Brenda Fernanda,Rodriguez ,Santana ,ROSB-940903-MMCDN-,94-13-94-3913-0
+2983,Jesus Axel,Sotelo ,Cruz ,SOCJ-830111-HDFTR-,01-02-83-0930-8
+2984,Victor Jair,Hernandez,Yañez ,HEYV-940519-HTCRX-,25-16-94-9849-7
+2985,Jose Manuel,Gomez,Salazar,GOSM-860529-HPLML-,07-08-86-0202-9
+2986,Natalia,Angulo,Salgado,AUSN-780914-MDFNL-,11-99-78-0694-5
+2987,Mario Alberto,Posadas,Ahumada,POAM-960804-HNLSH-,06-13-96-9010-0
+2989,Ricardo,Lopez,Lopez,LOLR-880311-HVZPP-,67-13-88-0048-6
+2990,Jose Ignacio,Tadeo ,Guzman ,TAGI-950413-HCMDZ-,52-10-95-2423-2
+2991,Roberto Adolfo,Perez ,Barajas ,PEBR-910927-HMCRR-,98-10-91-1420-1
+30001,Alexis,Ayala,Jurado,AYJASKDKS,343242
